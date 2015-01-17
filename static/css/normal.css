@@ -1,0 +1,112 @@
+body > main > header {
+  background-color: black;
+  background-image: url(/img/bannerNormal.png);
+  background-position: right center;
+  background-repeat: no-repeat;
+  padding-top: 1.6em;
+  padding-left: 1em;
+  margin-bottom: 1.6em;
+}
+/*EGMONT MIKA*/
+body > main > header > h1 {
+  font-size: 1.4em;
+  line-height: 2em;
+  padding-top: 4em;
+  padding-left: 3em;
+  color: rgba(224, 223, 223, 1);
+  font-weight: 400em;
+  letter-spacing: 10px;
+  text-transform: uppercase;b
+  background-color: black;
+  max-width: 100%;
+  height: 5em;
+}
+
+body > main > section  h1 {
+font-size: 2.4em;
+font-weight: 600;
+padding-top: 1em;
+padding-bottom: 0.5em;
+color: #7A0901;
+}
+
+/*Blog headlines*/
+
+
+}
+/*Subheadlines inside articles*/
+body > main > section > article > header > h2 {
+font-size: 1.2em;
+font-weight: 300;
+color:rgba(122, 9, 1, 1);
+}
+/*Right column: Bisherige Artikel etc*/
+body > main > aside {
+  background-color: rgba(228, 228, 228, 1);
+  Padding-top: 2em;
+  Padding-left: 1em;
+  Padding-right: 1em;
+  Padding-bottom: 3em;
+  background-color: rgba(188, 188, 188, 1);
+
+}
+body > main > aside > h1 {
+  font-size: 1.2em;
+  line-height: 1.4;
+  font-weight: 600;
+  color: rgba(120, 118, 118, 1);
+  padding-top: 0.6em;
+  padding-left: 0em;
+  padding-bottom: 0em;
+  margin-bottom: -1em;
+}
+body > main > aside > ul {
+  padding-left: 0;
+}
+body > main > aside > ul > li{
+  list-style-type: none;
+
+  text-align: left;
+  font-size: 0.6em;
+}
+body > main > aside > nav ul {
+  list-style-type: none;
+  padding-top: 1em;
+  padding-bottom: 2em;
+  padding-right: 0.5em;
+  padding-left: 0em;
+}
+
+@media only screen and (max-width: 39.9em) {
+  body > div > header > h1 {
+    font-size: 1.2em;
+    padding-top: 1.6em;
+  }
+}
+@media only screen and (min-width: 40em) {
+  body > main > section {
+    float: left;
+    width: 70%;
+  }
+  body > main > aside {
+    float: right;
+    width: 25%;
+  }
+}
+body > main > section > article {
+  padding-left: 2em;
+  padding-right: 2em;
+  margin-bottom: 4em;
+}
+
+  /*Kommentar: Text und Mitteilungskasten*/
+body > main > header > h2 {
+
+margin-top: 6em;
+background-color: black;
+}
+
+body > main > footer {
+    clear: both;
+  }
+}

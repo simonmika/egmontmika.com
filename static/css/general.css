@@ -1,0 +1,156 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,300italic);
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.0em;
+  line-height: 1.4;
+  font-weight: 300;
+  letter-spacing: 0.4px;
+    -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hypens: auto;
+  -o-hyphens: auto;
+  hyphens: auto;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1 a, h1 a:visited, h1 a:active,
+h2 a, h2 a:visited, h2 a:active,
+h3 a, h3 a:visited, h3 a:active,
+h4 a, h4 a:visited, h4 a:active,
+h5 a, h5 a:visited, h5 a:active,
+h5 a, h6 a:visited, h6 a:active {
+  color: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hypens: none;
+  -o-hyphens: none;
+  hyphens: none;
+}
+h1 {
+  font-size: 2.2em;
+  line-height: 2.4em;
+  font-weight: 600;
+
+
+}
+h2 {
+  font-size: 1.4em;
+  line-height: 1.8em;
+  font-weight: 400;
+  margin-bottom: -0.6em;
+  color: rgba(122, 9, 1, 1);
+}
+h3 {
+  font-size: 1.2em;
+  line-height: 1.4;
+  font-weight: 400
+}
+h4 {
+  font-size: 1.2em;
+  line-height: 1.8;
+  font-weight: 400
+}
+h5 {
+  font-size: 1.1em;
+  line-height: 1.6;
+  font-weight: 400
+}
+h6 {
+  font-size: 1em;
+  line-height: 1.4;
+  font-weight: 400;
+}
+body > main {
+  background: -webkit-linear-gradient(rgba(154, 157, 159, 1), white); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(154, 157, 159, 1), white); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient (rgba(154, 157, 159, 1), white); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(154, 157, 159, 1), white); /* Standard syntax */
+  padding-bottom: 0.01em;
+
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active{
+  color: rgba(1, 128, 1, 1);
+}
+
+article img {
+  width: 100%;
+  height: auto;
+}
+
+/* Footer 2014 Egmont Mika grey box */
+body > main > footer {
+  clear: both;
+}
+body > main > footer > p {
+  text-align: center;
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  background-color: rgba(153, 156, 159, 0.56);
+  border-color: black;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: 1em;
+
+}
+/* */
+body > main {
+  max-width: 60em;
+  margin: auto;
+  padding-left: 1.6em;
+  padding-right: 1.6em;
+}
+/* Footer after articles, links: zum Blog, mehr*/
+body > main article > footer {
+  text-align: right;
+  margin-right: 2em;
+  font-weight: 400;
+
+}
+body > main article > footer > p {
+  margin-bottom: 2em;
+}
+
+/* Main menu */
+body > main > nav ul {
+  list-style-type: none;
+  padding-left: 0;
+
+}
+body > main > nav li a {
+  color: rgba(4, 86, 4, 1);
+  font-size: 1em;
+  font-weight: 400;
+
+}
+  body > main > nav li a:active {
+}
+@media only screen and (min-width: 40em) {
+  body > main > nav ul {
+    display: block;
+    float: right;
+    list-style-type: none;
+    margin-right: 1em;
+  }
+  body > main > nav li {
+    width: 100%;
+    text-align: right;
+    display: inline;
+    padding-left: 2em;
+  }
+  body > main > header {
+    clear: both;
+  }
+}

@@ -1,0 +1,8 @@
+<h1>Recent Posts</h1>
+<nav>
+  <ul>
+    {{ range .Site.Sections.blog.Pages.ByDate.Reverse }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</nav>

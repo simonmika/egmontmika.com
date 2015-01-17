@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>{{ .Title }} - Egmont Mika (de)</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.min.js></script>
+  <![endif]-->
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/general.css">
+  <link rel="stylesheet" href="/css/normal.css">
+  <link rel="shortcut icon" href="/favicon.ico"  type="image/vnd.microsoft.icon">
+</head>
+<body>
+<main>
+  <nav>
+    {{ template "partials/mainMenu.html" .Site.Menus.main }}
+  </nav>
+  <header>
+    <h1>Egmont Mika</h1>
+  </header>
+  <section>
+    <article>
+      <h1>{{ .Title }}</h1>
+      {{ .Content }}
+    </article>
+  </section>
+  <aside>
+    {{ template "partials/follow.html" . }}
+    {{ template "partials/recentPosts.html" . }}
+  </aside>
+
+<section>
+  <iframe height="517" allowTransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none"  src="https://enegmontmika.wufoo.com/embed/qw70cmu02u3k3h/"><a href="https://enegmontmika.wufoo.com/forms/qw70cmu02u3k3h/">Please leave a comment.</a></iframe>
+    </section>
+
+<footer>
+    <p>&copy; 2014 Egmont Mika</p>
+  </footer>
+</main>
+{{ template "partials/analytics.html" . }}
+</body>
+</html>
