@@ -1,12 +1,14 @@
 +++
 title = "A Jesus Community"
-date = 2015-01-07T03:01:45Z
+date = "2014-12-18T06:39:19+0100"
+publishdate = "2015-01-06"
+image = "Jesus community.png"
 +++
-You don't have to be a pastor in order to make a disciple of Jesus.
 
-And you don't need to be an apostle or prophet, or an appointed church leader or church planter in order to form a community of disciples.
+It doesn't take an apostle or a prophet, an appointed church leader or a church planter in order to form a simple community of disciples.
 
-My wife and I do not hold any of these offices and we never formally “started a church”. In fact, we never attempted to.
+My wife and I do not hold any of these offices and we never formally “started a church”. In fact, we never attempted to.
+
 However, there has been an informal community of disciples around us ever since we opened up our family and our home and let others join us in our walk with Jesus.
 
 This has been going on for more than 40 years and it still continues: Informal gatherings for meals, worship, bible study, prayer, counselling, working on a project, celebrations, hikes and other outdoor activities, parties, traveling... and of course, personal mentoring and baptism.
@@ -25,7 +27,7 @@ This wonderful bunch of people - we may call it community - is both very little 
 
 It's both a local family and a worldwide community. It's well defined by the people who are actually meeting at a certain place and time, but it's also hard to grasp due to its openness and flexibility.
 
-It's not a brand, an organisation, a building, or an office, yet, it's not just an idea in our heads.
+It's not a brand, an organisation, a building, or an office, yet, it's not just an idea in our heads either.
 
 It's kept together by Jesus as Lord and by the personal relationships created by him. It's very real and it surely is glorious.
 
