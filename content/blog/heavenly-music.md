@@ -2,7 +2,7 @@
 title = "Heavenly \"Music\""
 date = "2014-03-28T07:48:07+0100"
 publishdate = "2014-04-24"
-image = "Pianoha?nde 6.png"
+image = "Pianohaende 6.png"
 +++
 
 Starting at the age of eight, I took piano lessons for ten years.
