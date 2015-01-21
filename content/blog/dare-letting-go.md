@@ -1,7 +1,6 @@
 +++
 title = "Dare Letting Go!"
-date = "2014-11-11T08:46:54+0100"
-publishdate = "2014-11-26"
+date = "2014-11-26T08:46:54Z"
 image = "Dare Letting Go!.png"
 +++
 

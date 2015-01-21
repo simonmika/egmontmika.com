@@ -1,7 +1,6 @@
 +++
 title = "Being a \"Little Jesus\""
-date = "2014-04-21T22:10:17+0200"
-publishdate = "2014-06-05"
+date = "2014-06-05T22:10:17Z"
 image = "Little Jesus.png"
 +++
 

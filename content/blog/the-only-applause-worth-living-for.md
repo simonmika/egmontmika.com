@@ -1,7 +1,6 @@
 +++
 title = "The Only Applause Worth Living for"
-date = "2014-02-09T14:29:18+0100"
-publishdate = "2014-03-20"
+date = "2014-03-20T14:29:18Z"
 image = "applause2.png"
 +++
 

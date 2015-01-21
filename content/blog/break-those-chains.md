@@ -1,7 +1,6 @@
 +++
 title = "Break those Chains!"
-date = "2014-02-22T15:37:21+0100"
-publishdate = "2014-03-13"
+date = "2014-03-13T15:37:21Z"
 image = "chainsBlog3.png"
 +++
 

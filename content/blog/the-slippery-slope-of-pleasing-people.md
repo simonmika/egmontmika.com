@@ -1,7 +1,6 @@
 +++
 title = "The Slippery Slope of Pleasing People"
-date = "2014-02-19T09:02:20+0100"
-publishdate = "2014-03-06"
+date = "2014-03-06T09:02:20Z"
 image = "slipslopeimage7.png"
 +++
 Doesn’t everyone want to be happy? And don’t we all like to hang around people who make us happy? Why not let maximizing people’s happiness be one of our foremost goals then? Wouldn’t that be a good way to serve humanity?

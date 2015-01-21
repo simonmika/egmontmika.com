@@ -1,7 +1,6 @@
 +++
 title = "Would You Like to Have a Mentor?"
-date = "2014-01-20T07:26:23+0100"
-publishdate = "2014-04-10"
+date = "2014-04-10T07:26:23Z"
 image = "Mentor?.png"
 +++
 

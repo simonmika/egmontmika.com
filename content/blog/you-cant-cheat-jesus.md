@@ -1,7 +1,6 @@
 +++
 title = "You Can't Cheat Jesus!"
-date = "2014-02-01T20:10:22+0100"
-publishdate = "2014-05-08"
+date = "2014-02-01T20:10:22Z"
 image = "Cheating.png"
 +++
 

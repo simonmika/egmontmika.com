@@ -1,7 +1,6 @@
 +++
 title = "Running Ahead of Jesus"
-date = "2014-05-08T07:33:02+0200"
-publishdate = "2014-05-29"
+date = "2014-05-29T07:33:02Z"
 image = "Running Ahead of Jesus.png"
 +++
 

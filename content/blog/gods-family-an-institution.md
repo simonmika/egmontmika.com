@@ -1,7 +1,6 @@
 +++
 title = "God's Family - an Institution?"
-date = "2014-11-24T06:34:40+0100"
-publishdate = "2014-12-11"
+date = "2014-12-11T06:34:40Z"
 image = "God's family_institution?.png"
 +++
 

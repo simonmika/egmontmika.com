@@ -1,7 +1,6 @@
 +++
 title = "Stepping out of the Boat"
-date = "2014-09-30T07:26:42+0200"
-publishdate = "2014-10-16"
+date = "2014-10-16T07:26:42Z"
 image = "Walking on water.png"
 +++
 [![](/sites/default/files/styles/large/public/Walking%20on%20water_0.png?itok=ZRWtlTjJ)](http://www.egmontmika.com/sites/default/files/styles/large/public/Walking%20on%20water_0.png?itok=ZRWtlTjJ) 

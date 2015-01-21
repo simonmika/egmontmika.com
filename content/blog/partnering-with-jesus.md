@@ -1,7 +1,6 @@
 +++
 title = "Partnering with Jesus"
-date = "2014-04-24T22:44:14+0200"
-publishdate = "2014-05-01"
+date = "2014-05-01T22:44:14Z"
 image = "Partners.png"
 +++
 

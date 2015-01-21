@@ -1,7 +1,6 @@
 +++
 title = "Filling the Emptiness of Waiting"
-date = "2014-02-09T17:52:28+0100"
-publishdate = "2014-05-15"
+date = "2014-05-15T17:52:28Z"
 image = "Overcoming Boredom.png"
 +++
 

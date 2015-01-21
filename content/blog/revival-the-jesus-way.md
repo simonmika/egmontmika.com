@@ -1,7 +1,6 @@
 +++
 title = "Revival the Jesus-Way"
-date = "2014-05-12T11:57:23+0200"
-publishdate = "2014-05-22"
+date = "2014-05-22T11:57:23Z"
 image = "Revival.png"
 +++
 

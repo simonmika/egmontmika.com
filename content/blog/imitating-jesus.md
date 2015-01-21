@@ -1,7 +1,6 @@
 +++
 title = "Imitating Jesus"
-date = "2014-01-26T13:15:15+0100"
-publishdate = "2014-04-09"
+date = "2014-04-09T13:15:15Z"
 image = "Imitating.png"
 +++
 

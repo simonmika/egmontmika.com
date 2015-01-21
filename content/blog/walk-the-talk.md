@@ -1,7 +1,6 @@
 +++
 title = "Walk the Talk"
-date = "2014-03-03T07:27:19+0100"
-publishdate = "2014-03-27"
+date = "2014-03-27T07:27:19Z"
 image = "WalktheTalk.JPG"
 +++
 

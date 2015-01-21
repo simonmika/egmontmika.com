@@ -1,7 +1,6 @@
 +++
 title = "Are You Quite Normal?"
-date = "2014-10-10T07:52:50+0200"
-publishdate = "2014-11-12"
+date = "2014-11-12T06:39:19Z"
 image = "Are you quite normal_SofieScholl.png"
 +++
 

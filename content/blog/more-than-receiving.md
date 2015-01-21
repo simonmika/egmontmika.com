@@ -1,7 +1,6 @@
 +++
 title = "More than Receiving"
-date = "2014-08-30T17:57:23+0200"
-publishdate = "2014-10-02"
+date = "2014-10-02T17:57:23Z"
 image = "Receiving hands bv.jpg"
 +++
 

@@ -1,7 +1,6 @@
 +++
 title = "Jesus Conversations"
-date = "2014-05-14T19:53:10+0200"
-publishdate = "2014-09-04"
+date = "2014-09-04T19:53:10Z"
 image = "EgmontNoomiConversation_small.png"
 +++
 

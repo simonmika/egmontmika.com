@@ -1,7 +1,6 @@
 +++
 title = "What's Your Jesus Story?"
-date = "2014-09-18T22:20:02+0200"
-publishdate = "2014-09-18"
+date = "2014-09-18T22:20:02Z"
 image = "Jesus Story AusschnittGreenNarrow.jpg"
 +++
 

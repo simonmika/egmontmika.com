@@ -1,13 +1,12 @@
 +++
 title = "A Jesus Community"
-date = "2014-12-18T06:39:19+0100"
-publishdate = "2015-01-06"
+date = "2015-01-06T06:39:19Z"
 image = "Jesus community.png"
 +++
 
 It doesn't take an apostle or a prophet, an appointed church leader or a church planter in order to form a simple community of disciples.
 
-My wife and I do not hold any of these offices and we never formally “started a church”. In fact, we never attempted to.
+My wife and I do not hold any of these offices and we never formally started a church. In fact, we never attempted to.
 
 However, there has been an informal community of disciples around us ever since we opened up our family and our home and let others join us in our walk with Jesus.
 

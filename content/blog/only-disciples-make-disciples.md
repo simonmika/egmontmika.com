@@ -1,7 +1,6 @@
 +++
 title = "Only Disciples Make Disciples"
-date = "2013-12-01T13:58:11+0100"
-publishdate = "2014-08-22"
+date = "2014-08-22T13:58:11Z"
 image = "Nur Jünger redig.jpg"
 +++
 

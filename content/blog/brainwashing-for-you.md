@@ -1,7 +1,6 @@
 +++
 title = "Brainwashing for You"
-date = "2014-10-06T06:59:43+0200"
-publishdate = "2014-10-29"
+date = "2014-10-29T06:59:43Z"
 image = "Brainwashing klein.png"
 +++
 
