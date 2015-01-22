@@ -1,7 +1,7 @@
 +++
 title = "Brainwashing for You"
 date = "2014-10-29T06:59:43Z"
-image = "Brainwashing klein.png"
+image = "Brainwashing klein_1.png"
 +++
 
 Brainwashing – the cleansing of your mind – can be something quite positive.
