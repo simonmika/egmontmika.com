@@ -36,6 +36,7 @@ h1 {
   font-size: 2.2em;
   line-height: 1.4em;
   font-weight: 600;
+
 }
 h2 {
   font-size: 1.4em;
@@ -43,6 +44,7 @@ h2 {
   font-weight: 400;
   margin-bottom: -0.6em;
   color: rgba(122, 9, 1, 1);
+
 }
 h3 {
   font-size: 1.2em;
@@ -90,10 +92,11 @@ body > main > section > article > figure {
 }
 body > main > section > article > figure > img {
   display: block;
-  max-height: 20em;
-  width: auto;
+  max-height: 30em;
+  width: 36em;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 3em;
 }
 
 /* Footer 2014 Egmont Mika grey box */
