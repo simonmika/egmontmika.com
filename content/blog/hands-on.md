@@ -1,9 +1,9 @@
 +++
-title = "Just do it!"
+title = "Hands-on."
 date = 2015-02-21T03:01:45Z
 image = "Hands-on.png"
 +++
-There is no way of learning more effective than hands-on training in real life situations.
+There is no better way of learning than the hands-on training in real life situations.
 
 * If you want to learn how to walk, you'll have to start walking.
 * If you want to learn how to ride a bike, you'll have to start biking.
