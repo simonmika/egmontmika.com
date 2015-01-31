@@ -88,18 +88,20 @@ article img {
   height: auto;
 }
 body > main > section > article > figure {
-  margin: 2em 0;
+  margin: 0.3em 0;
   width: 100%;
 }
 body > main > section > article > figure > img {
   display: block;
-  max-height: 60em;
+  max-height: auto;
   width: 37em;
   margin-left: 0;
   margin-right: auto;
   margin-bottom: 3em;
-  background-color: red
 }
+
+
+
 
 /* Footer 2014 Egmont Mika grey box */
 body > main > footer {
@@ -119,6 +121,9 @@ body > main > footer > p {
   border-bottom-width: 1em;
 
 }
+
+
+
 /* */
 body > main {
   max-width: 60em;
