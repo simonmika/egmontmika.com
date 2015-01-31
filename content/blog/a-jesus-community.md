@@ -1,7 +1,7 @@
 +++
 title = "A Jesus Community"
 date = "2015-01-06T06:39:19Z"
-image = "Jesus community.png"
+image = "Jesus community2.png"
 +++
 
 It doesn't take an apostle or a prophet, an appointed church leader or a church planter in order to form a simple community of disciples.
