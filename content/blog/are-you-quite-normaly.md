@@ -1,7 +1,7 @@
 +++
 title = "Are You Quite Normal?"
 date = "2014-11-12T06:39:19Z"
-image = "Are you quite normal_SofieScholl.png"
+image = "Are you quite normal_SofieSchollXXX.png"
 +++
 
 For being a disciple of Jesus, people may regard you as not being quite normal.

@@ -10,7 +10,7 @@ Institutions can plan and execute, administrate and produce. They can influence 
 
 The typical process how institutional churches are run starts with bringing people to “church”, engaging them in church activities and programs, making them agree to certain doctrinal beliefs, and socializing them into their specific church culture, with the ultimate goal of generating members and church workers. But we have to realise that all these efforts do not necessarily make one a disciple of Jesus Christ.
 
-Disciple making works at a much deeper level with profound implications.
+Making disciples works at a much deeper level with profound implications.
 
 It starts out with God initiating something new in a person’s life, through a personal encounter, resulting in a new birth on the inside, and over time, a gradual transformation of his motives, attitudes and actions.
 
@@ -20,4 +20,6 @@ It's a wonderful, shared journey. At times, especially in the beginning, it can 
 
 Disciples are made by people who are familiar with that struggle and filled with the realisation of the victory that Jesus has won for them. They know who they are in him, and what they are able to do in his name. They know his heart and recognise his voice in their spirits. They impart to others who they are and what they are. And in and through all this they give glory to the Lord.
 
-Institutions and offices can never achieve all this. Only disciples can! Therefore, you personally can do things that your "church" as an organisation can never do.
+Institutions and offices can never achieve all this. Only disciples can!
+
+You can do what your "church" as an organisation never can.

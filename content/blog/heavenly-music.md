@@ -1,5 +1,5 @@
 +++
-title = "Heavenly \"Music\""
+title = "Heavenly Music"
 date = "2014-04-24T07:48:07Z"
 image = "Pianohaende 6.png"
 +++

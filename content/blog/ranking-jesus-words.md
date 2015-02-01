@@ -1,6 +1,7 @@
 +++
 title = "Ranking Jesus' Words"
 date = 2015-01-22T03:01:45Z
+image = "Rangliste3.png"
 +++
 Jesus said: “Go and make disciples!” As a disciple of Jesus, how do those words rank on your list?
 

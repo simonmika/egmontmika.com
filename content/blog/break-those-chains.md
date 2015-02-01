@@ -1,7 +1,7 @@
 +++
 title = "Break those Chains!"
 date = "2014-03-13T15:37:21Z"
-image = "chainsBlog3.png"
+image = "Break those chains.png"
 +++
 
 Jesus didn't establish a hierarchy of authority among his followers.

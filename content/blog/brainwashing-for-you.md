@@ -4,21 +4,15 @@ date = "2014-10-29T06:59:43Z"
 image = "Brainwashing klein_1.png"
 +++
 
-Brainwashing – the cleansing of your mind – can be something quite positive.
-
-It all depends on who is doing it, how it is done, and what the purpose is.
-
-Just consider these words from an apostle:
+Brainwashing – the cleansing of your mind – can be something quite positive. It all depends on who is doing it, how it is done, and what the purpose is. Just consider these words from an apostle:
 
  “Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind.” (Ro 12:2 NIV)
 
-Again our questions of interest: Who is doing it, how is it done, and what is the purpose?
-
-My answers would be:
+Again our questions of interest: Who is doing it, how is it done, and what is the purpose? My answers would be:
 
 1) You doing it  
- 2) with the help of the Spirit  
- 3) in order to reach maturity.
+2) with the help of the Spirit  
+3) to reach maturity.
 
 Maturity is what you see when you look at Jesus. Becoming more and more like him is God’s agenda for you. In fact, it’s an indispensable ingredient of discipleship. And as a follower of Jesus, this is what you are expected to get engaged in.
 

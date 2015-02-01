@@ -3,8 +3,6 @@ title = "Stepping out of the Boat"
 date = "2014-10-16T07:26:42Z"
 image = "Walking on water.png"
 +++
-[![](/sites/default/files/styles/large/public/Walking%20on%20water_0.png?itok=ZRWtlTjJ)](http://www.egmontmika.com/sites/default/files/styles/large/public/Walking%20on%20water_0.png?itok=ZRWtlTjJ) 
-
 Jesus didn't promise you a safe and predictable life.
 
 Many times, following him may rather feel the opposite. Like stepping out of the boat and walking on water...

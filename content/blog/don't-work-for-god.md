@@ -1,5 +1,5 @@
 +++
-title = "Don't Work for God"
+title = "Don't Work for God!"
 date = 2015-02-28T03:01:45Z
 image = "Don't work for God.png"
 +++
@@ -7,22 +7,20 @@ Don’t work FOR the Lord! Work WITH him!
 
 Why are there so many discouraged and burned-out pastors? Why do so many leave the ministry? Didn’t Jesus say that his burden would be light?
 
-Maybe ministry has become too heavy, because too much has been added by man. Too much of human ambitions and desires to influence and accomplish and control. And get honoured.
+Maybe ministry has become too heavy, because too much has been added by man. Too much of human ambitions and desires to influence and accomplish and control. Too much of duties, worries and fear.
 
 Jesus simply expects us to follow him and make disciples. Then, naturally, we take care of each other as a family.
 
-He isn’t pushing, but leading. He is always on the go and lets us join in.
+He isn’t pushing, but leading.
 
 You can do as little or as much as you are able to, or have faith for, or think that you can afford. In this way, your burden is self-regulating. It never grows beyond your ability and your faith. Still, it can grow, slowly enough to enable you to grow along with it.
 
-I don’t think we need to make up a great vision or strategy or plan, just because this is what every “successful” church seems to have and what all the leadership books tell us. Neither do we need to follow any specific method.
+I don’t think we need to make up a great vision or strategy or plan, just because this is what all the leadership books tell us and what every great church seems to have. It's just a guessing anyway. And a burden. Or even a curse.
 
-And we don’t need to prove our spirituality or leadership ability to anyone, neither to ourselves. The Lord alone defines success and he alone is worthy to receive the honour.
+And we don’t need to prove our spirituality or ability as a leader to anyone, neither to ourselves. The Lord leads by his Spirit and defines what success is, and he alone is to be honoured.
 
-So don’t worry. Don’t worry about your ministry or the expectations of others. Don’t submit to them. Rather step out - mentally, emotionally, spiritually and, if necessary, even physically.
+So, don’t worry.
 
-Keep ministry simple and let the Lord lead. Follow him step by step and develop yourself, your group and your work along with what he is doing and letting you do at your pace.
+Don’t worry about "your ministry". It's not yours anyway, but Jesus'. And don't submit to wrong expectations from others. Instead, find out what the Lord has prepared for you.
 
-After all, he is the leader, nothing less; and we are his followers, nothing more. He knows what he is doing and how much we can take, and he will not allow any of his workers to fail or get burned out.
-
-Therefore, don’t try to do anything FOR him. Instead, find out what he already is doing and join in WITH him!
+Then, join in WITH him!
