@@ -1,9 +1,9 @@
 +++
 title = "Dealing with the Shameful"
 date = "2015-02-05T06:39:19Z"
-image = "Ashamed6.png"
+image = "dealing with the shameful.png"
 +++
-There are certain things I absolutely don’t want to talk about.
+There are things I absolutely don’t want to talk about.
 
 Like when I made a fool of myself. Or when I offended someone, gave a stupid or arrogant or childish response, yelled and screamed,  broke my promise, or just followed a sinful habit…
 

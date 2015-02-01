@@ -1,26 +1,26 @@
 +++
 title = "Dare Letting Go!"
 date = "2014-11-26T08:46:54Z"
-image = "Dare Letting Go!.png"
+image = "dare letting go.png"
 +++
 
-Do you want to move forward? Improve something? Make a positive change in your life?
+Do you want to move forward? Make a positive change in your life?
 
 But feel stuck?
 
-Are you stuck in your past, your job, your debts, your reputation, your weight, your failures, your self-esteem, your salary, your bad experiences...? Is your spiritual life going in circles with mere religious routines and habits?
+Are you stuck in your past? Or your debts, your reputation, your failures, your self-esteem, your weight? Your salary, your negative experiences...? Is your spiritual life going in circles with mere religious routines and habits?
 
-It’s easy to get stuck, and it’s easy to give up and stay where you are.
+It’s easy to get stuck. And it’s easy to give up and stay where you are.
 
-People spend huge amounts of time and money seeking to innovate and upgrade themselves, working to give up something, start something, build something or change something about who they are and what they do.
+People spend huge amounts of time and money seeking to innovate and upgrade themselves, working to give up something, start or build something new, or change something about who they are and what they do.
 
 And ultimately fail.
 
-Reaching a place where you accept failure and stop dreaming.
+Reaching a place where they accept failure and stop dreaming.
 
-You may call it wisdom or realism and try to turn it into a virtue. But, in actuality it is killing you. Killing your dreams, your ambitions, your initiatives, your self-esteem and your joy.
+You may call it wisdom or realism and try to turn it into a virtue, but it's killing you. Killing your dreams, your ambitions, your initiatives, your self-esteem, your joy...
 
-There *is* a better way. Change is possible for everyone, including you.
+There *is* a better way. Change is possible for everyone.
 
 Probably, change doesn't come by just doing more of what you are already doing now. Working even harder, faster, longer, and sleeping less isn’t the answer. It simply ruins your health and your family.
 
