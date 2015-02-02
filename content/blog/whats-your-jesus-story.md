@@ -1,7 +1,7 @@
 +++
 title = "What's Your Jesus Story?"
 date = "2014-09-18T22:20:02Z"
-image = "Jesus Story.png"
+image = "what's your jesus story.png"
 +++
 
 Don't miss sharing your very best story!

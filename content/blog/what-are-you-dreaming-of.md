@@ -1,7 +1,7 @@
 +++
 title = "What Are You Dreaming of?"
 date = "2014-04-03T17:07:54Z"
-image = "Dreaming.png"
+image = "what are you dreaming of.png"
 +++
 
 It’s always inspiring to read about people who have accomplished great things in their lives, like Mahatma Gandhi, Martin Luther King, Nelson Mandela, Mother Teresa, Billy Graham...

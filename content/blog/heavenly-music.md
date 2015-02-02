@@ -1,7 +1,7 @@
 +++
 title = "Heavenly Music"
 date = "2014-04-24T07:48:07Z"
-image = "Pianohaende 6.png"
+image = "heavenly music.png"
 +++
 
 Starting at the age of eight, I took piano lessons for ten years.

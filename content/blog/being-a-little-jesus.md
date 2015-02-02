@@ -1,7 +1,7 @@
 +++
 title = "Being a \"Little Jesus\""
 date = "2014-06-05T22:10:17Z"
-image = "Little Jesus.png"
+image = "being a little jesus.png"
 +++
 
 The task of discipleship is to represent Jesus. This means to embody man's redemption through Him, and to express this new reality in all aspects of life.

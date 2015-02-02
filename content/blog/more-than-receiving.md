@@ -1,7 +1,7 @@
 +++
 title = "More than Receiving"
 date = "2014-10-02T17:57:23Z"
-image = "Receiving hands bv.jpg"
+image = "more than receiving.jpg"
 +++
 
 Following Jesus is more than about receiving his blessings.

@@ -1,7 +1,7 @@
 +++
 title = "Filling the Emptiness of Waiting"
 date = "2014-05-15T17:52:28Z"
-image = "Overcoming Boredom.png"
+image = "filling the emptiness of waiting.png"
 +++
 
 Have you ever spent a day or two in an overcrowded waiting room? Tired, sweaty, hungry, and bored to death - condemned to do nothing but wait?

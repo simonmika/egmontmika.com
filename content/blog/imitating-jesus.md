@@ -1,7 +1,7 @@
 +++
 title = "Imitating Jesus"
 date = "2014-04-09T13:15:15Z"
-image = "Imitating.png"
+image = "imitating jesus.png"
 +++
 
 I strongly dislike imitations.

@@ -1,7 +1,7 @@
 +++
 title = "Stepping out of the Boat"
 date = "2014-10-16T07:26:42Z"
-image = "Walking on water.png"
+image = "stepping out of the boat.png"
 +++
 Jesus didn't promise you a safe and predictable life.
 

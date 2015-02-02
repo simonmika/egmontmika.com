@@ -1,7 +1,7 @@
 +++
 title = "Partnering with Jesus"
 date = "2014-05-01T22:44:14Z"
-image = "Partners.png"
+image = "partnering with jesus.png"
 +++
 
 Jesus doesn’t want his followers to merely be attenders of church services.

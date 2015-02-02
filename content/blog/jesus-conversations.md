@@ -1,7 +1,7 @@
 +++
 title = "Jesus Conversations"
 date = "2014-09-04T19:53:10Z"
-image = "EgmontNoomiConversation_small.png"
+image = "jesus conversations.png"
 +++
 
 The most precious, the most challenging and at the same time the most rewarding conversations I can think of are the missional conversations with someone who doesn’t know Jesus, yet.  
