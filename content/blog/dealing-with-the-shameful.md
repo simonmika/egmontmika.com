@@ -25,6 +25,6 @@ This can completely change my situation. It’s like opening a window and lettin
 
 Are you in that situation?
 
-Then, may I suggest that you talk about it. It isn’t always easy.
+Then, may I suggest that you talk about it. It isn’t always easy, yet it's worth it.
 
-Yet, it’s worth it.
+You won't regret it!

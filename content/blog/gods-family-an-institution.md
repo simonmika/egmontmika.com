@@ -1,7 +1,7 @@
 +++
 title = "God's Family - an Institution?"
 date = "2014-12-11T06:34:40Z"
-image = "Gods_family_institution.png"
+image = "god's family - an institution.png"
 +++
 
 God wants a family. Yet, man builds him an institution.

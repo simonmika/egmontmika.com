@@ -1,7 +1,7 @@
 +++
 title = "Revival the Jesus-Way"
 date = "2014-05-22T11:57:23Z"
-image = "Revival.png"
+image = "revival the jesus way.png"
 +++
 
 Every revival seems to develop its own worship style and its specific methods and organisational structures for doing God’s work. And it’s quite legitimate to do so. New wine requires new wine skins.

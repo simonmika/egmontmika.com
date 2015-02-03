@@ -1,7 +1,7 @@
 +++
 title = "Would You Like to Have a Mentor?"
 date = "2014-04-10T07:26:23Z"
-image = "Mentor.png"
+image = "would you like to have a mentor?.png"
 +++
 
 There are plenty of books available on discipleship. They tell you what a disciple is and how you can become a good one. Unfortunately, reading books on discipleship does not necessarily make you a disciple.

@@ -1,7 +1,7 @@
 +++
 title = "Walk the Talk"
 date = "2014-03-27T07:27:19Z"
-image = "WalktheTalk.JPG"
+image = "walk the talk.JPG"
 +++
 
 All of my five kids are brilliant cooks. At least that’s what I think. After all, they cook like their dad!
