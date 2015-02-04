@@ -1,6 +1,6 @@
 +++
 title = "Dealing with the Shameful"
-date = "2015-02-05T06:39:19Z"
+date = "2015-02-04T06:39:19Z"
 image = "dealing with the shameful.png"
 +++
 There are certain things I absolutely don’t feel happy to talk about.
