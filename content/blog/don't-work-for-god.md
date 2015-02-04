@@ -1,5 +1,5 @@
 +++
-draft = "true"
+draft = "True"
 title = "Don't Work for God!"
 date = 2015-02-28T03:01:45Z
 image = "Don't work for God.png"

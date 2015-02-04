@@ -3,7 +3,7 @@ title = "Dealing with the Shameful"
 date = "2015-02-04T06:39:19Z"
 image = "dealing with the shameful.png"
 +++
-There are certain things I absolutely don’t feel happy to talk about.
+cccThere are certain things I absolutely don’t feel happy to talk about.
 
 Like telling another person how I made a fool of myself, or the number of times I reacted immaturely or arrogantly. Nor do I want to speak about the time I yelled and screamed and just couldn’t control my anger. But why should I?
 

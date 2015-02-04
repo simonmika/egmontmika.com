@@ -1,5 +1,5 @@
 +++
-draft = "true"
+draft = "True"
 title = "Hands-on"
 date = 2015-02-21T03:01:45Z
 image = "Hands-on.png"
