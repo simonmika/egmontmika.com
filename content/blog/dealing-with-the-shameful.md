@@ -28,3 +28,13 @@ Are you in that situation?
 Then, may I suggest that you talk about it. It isn’t always easy, yet it's worth it.
 
 You won't regret it!
+
+---
+
+## Comments
+
+##### Sara Gabrielsson
+> Dear Egmont, this is life-saving advice. I know from my own experience! Shame is a feeling among others and a very important one. But we need to go beyond it, because if we get stuck in shame we will run away and hide and the cause of shame will never be dealt with. If we dare to accept the shame and go beyond it and take the risk of opening up and showing ourselves as we are (with the less nice sides included) we give others a chance to give us that healing acceptance that is the key to restauration. I can't help of thinking of pastor Robert Ekh in this context. I don't know if that was the inspiration of your text.
+
+##### Egmont Mika
+> Thank you, Sara, for your fine commentary. You are right, this post fits very well into our situation in Uppsala, but I didn't think of that, when I wrote it.
