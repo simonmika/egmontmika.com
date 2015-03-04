@@ -1,5 +1,5 @@
 +++
-title = "Don't work for God! "
+title = "Don't Work for God! "
 date = 2015-03-04T03:01:45Z
 image = "Don't work for God.png"
 +++

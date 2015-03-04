@@ -1,5 +1,5 @@
 +++
-title = "Just do it! "
+title = "Just Do It! "
 date = 2015-02-18T03:01:45Z
 image = "just do it!.png"
 +++
