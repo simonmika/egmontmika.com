@@ -11,7 +11,7 @@ Maybe ministry has become too heavy, because too much has been added by man. Too
 
 Jesus simply expects us to follow him and make disciples. Then, naturally, we take care of each other as a family.
 
-This is not a problem, as long as there is no position to achieve or to keep. And no other obligations and expectations that come along with it.
+This is not a problem, as long as there is no position to achieve or to keep. And no other obligations and expectations that come along with it, are stealing your focus.
 
 Without position, you can do as little or as much as you are able to, or have faith for, or think that you can afford. In this way, your burden is self-regulating. It never grows beyond your ability and your faith. Still, it can grow, slowly enough to enable you to grow along with it.
 
@@ -23,4 +23,4 @@ So, don’t worry.
 
 Don’t worry about "your ministry". It's not yours anyway, but Jesus'. And don't submit to wrong expectations from others. Instead, find out what the Lord already has prepared for you.
 
-Don’t try to do something great FOR the Lord, but join in WITH him!
+And join in WITH him!
