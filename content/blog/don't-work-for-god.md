@@ -3,7 +3,7 @@ title = "Don't Work for God! "
 date = 2015-03-04T03:01:45Z
 image = "Don't work for God.png"
 +++
-Don’t work for the Lord! Work with him!
+Don’t work FOR the Lord! Work WITH him!
 
 Why are there so many discouraged and burned-out pastors? Why do so many leave the ministry? Didn’t Jesus say that his burden would be light?
 
