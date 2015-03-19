@@ -30,4 +30,4 @@ And that word spells V-I-C-T-O-R-Y!
 ------
 ## Comments
 ##### Geoffrey
->Thanks, Egmont. Your really pointed out many important things. The Lord just doesn't follow any human standards. We should realise that he has his own ways, and follow them. Thanks again.
+>Thanks, Egmont. You really pointed out many important things. The Lord just doesn't follow any human standards. We should realise that he has his own ways, and follow them. Thanks again.
