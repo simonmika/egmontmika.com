@@ -1,6 +1,6 @@
 +++
 title = "A Disciple's Defeat and Victory"
-date = 2015-03-10T03:01:45Z
+date = 2015-03-18T03:01:45Z
 image = "a disciple's defeat and victory.png"
 +++
 
@@ -26,3 +26,8 @@ In the middle of a setback, there is still grace for every single step and every
 In fact, that last word over your life has already been set by Jesus, long before you ever started your journey.
 
 And that word spells V-I-C-T-O-R-Y!
+
+------
+## Comments
+##### Geoffrey
+>Thanks, Egmont. Your really pointed out many important things. The Lord just doesn't follow any human standards. We should realise that he has his own ways, and follow them. Thanks again.
