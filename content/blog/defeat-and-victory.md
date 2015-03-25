@@ -27,7 +27,7 @@ In fact, that last word over your life has already been set by Jesus, long befor
 
 And that word doesn't spell "Victory at all times".
 
-But FRUIT !
+But FRUIT that lasts!
 
 ------
 ## Comments
