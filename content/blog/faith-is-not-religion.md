@@ -1,7 +1,7 @@
 +++
 draft = "true"
 title = "Faith Isn't Religion "
-date = 2015-04-01T03:01:45Z
+date = T03:01:45Z
 +++
 Following Jesus calls for faith. Yet, faith and religion aren’t the same. Faith isn't religion.
 
