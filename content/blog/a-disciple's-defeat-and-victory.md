@@ -25,7 +25,9 @@ In the middle of a setback, there is still grace for every single step and every
 
 In fact, that last word over your life has already been set by Jesus, long before you ever started your journey.
 
-And that word spells V-I-C-T-O-R-Y!
+And that word doesn't spell "victory at all times".
+
+But FRUIT !
 
 ------
 ## Comments
