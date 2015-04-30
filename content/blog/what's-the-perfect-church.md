@@ -27,7 +27,7 @@ Would the Early Church ever have matched up to our expectations?
 
 One thing is for sure, Jesus doesn’t get nervous when looking at our failures. Obviously, he knew from the beginning what kind of people we are, and must have taken that into account.
 
-Therefore, he commanded us to forgive each other. And in his view that’s nothing to compromise with, because it is the only way we can proceed.
+Therefore, he commanded us to forgive each other. And with that he is not willing to compromise, because it is the only way we can proceed.
 
 Moreover, he gave us the mandate to forgive in his name, by his grace. This is powerful! This changes everything!
 
