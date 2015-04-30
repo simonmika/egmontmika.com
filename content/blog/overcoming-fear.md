@@ -20,6 +20,4 @@ I stopped denying.
 
 I turned around and started facing it. Using my newfound weapon, the knowledge of being accepted, forgiven, and loved.
 
-Trusting God and his victory.
-
-Overcoming fear.
+Trusting God and his victory. Overcoming fear.
