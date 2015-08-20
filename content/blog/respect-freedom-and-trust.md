@@ -3,7 +3,14 @@ title = "Mentorship - Respect, Freedom and Trust"
 date = "2015-08-15T06:39:19Z"
 image = "respect freedom and trust.png"
 +++
-Mentorship: When Jesus commanded his disciples to go out and make disciples, they understood that as building a *master-disciple* relationship. The apostle Paul translated that into his greco-roman world by instead talking about a *father-son* relationship. Today, we often use the term *mentorship*. Still, it's the same content, the same mission. It's the mission that Jesus gave us.This is how I use this term in my blog.
+***Mentorship***
+
+When Jesus commanded his disciples to go out and make disciples, they understood that as building a ***master-disciple*** relationship. The apostle Paul translated that into his greco-roman world by instead talking about a ***father-son*** relationship. Today, we often use the term ***mentorship***. Still, it's the same content, the same mission. It's the mission that Jesus gave us.This is how I use this term in my blog.
+
+-------------------------------------------------------------------------
+
+**Mentorship - Respect, Freedom and Trust**
+
 
 Mentorship requires trust.
 
