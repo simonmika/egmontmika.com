@@ -3,9 +3,9 @@ title = "Mentorship - Respect, Freedom and Trust"
 date = "2015-08-15T06:39:19Z"
 image = "respect freedom and trust.png"
 +++
-***Mentorship***
+***Definition***
 
-When Jesus commanded his disciples to go out and make disciples, they understood that as building a ***master-disciple*** relationship. The apostle Paul translated that into his greco-roman world by instead talking about a ***father-son*** relationship. Today, we often use the term ***mentorship***. Still, it's the same content, the same mission. It's the mission that Jesus gave us.This is how I use this term in my blog.
+When Jesus commanded his disciples to go out and make disciples, they understood this as building a ***master-disciple*** relationship. The apostle Paul translated it into his greco-roman world by instead talking about a ***father-son*** relationship. Today, we often use the term ***mentorship***. Still, it's the same content, the same mission. It's the mission that Jesus gave us.This is how I use this term in my blog.
 
 -------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Furthermore, it means respecting that person’s decisions.  Granting her the fr
 
 Respect and freedom - these are the preconditions, but finally it’s all about trust.
 
-Trust is a relationship. You can’t buy it, neither do you get it by begging or arguing or manipulating. And you never build trust by engaging someone and “using” her for your purposes. There is no such way.
+Trust is a relationship. You can’t buy it, neither do you get it by begging or arguing or manipulating. And you never build trust by engaging someone in your projects, thus “using” her for your own purposes. There is no such way.
 
 Trust grows gradually... You’ll have to build it, patiently and carefully through consistency in action, thought and motives.
 
