@@ -3,24 +3,28 @@ title = "Share a Meal"
 date = "2015-09-15T06:39:19Z"
 image = "share a meal.png"
 +++
-*Hospitality is an expression of God’s character.*
+Hospitality is an expression of God’s character.
 
-God is welcoming, generous, nourishing, lavish, joyful… He is hospital. And this is what we communicate.
+Our Lord is a welcoming God. He is generous, nourishing, lavish, joyful…
 
-It’s as easy as sharing a meal with a friend, a collegue, a neighbor, or a stranger. Or why not a beggar! God is indiscriminate. He is including.
+He is hospital.
 
-Your meal doesn’t have to be fancy. Don’t let it be exclusive; there is no need to impress. Just share what you have, it may be abundant or little, a three-course dinner or a glas of water. Or a piece of chocolate or a banana. Just act according to the situation.
+And this is what we are communicating to others when being hospital. It’s as easy as sharing a meal with a friend, a collegue, a neighbor, or a stranger. Or why not a beggar! God is indiscriminate.
 
-It’s not so much about the food itsself, but your attitude. It’s about what people sense when they are together with you.
+He is including.
 
-*An expression of grace.*
+Your meal doesn’t have to be fancy; don’t let it be exclusive. There is no need to impress on anyone. Just share what you have, it may be abundant or little, a three-course dinner or a glas of water. Or a piece of chocolate or a banana. Just act hospitable according to the situation.
 
-You give them an experience of being accepted, respected, appreciated and honored. A sense of belonging without having to qualify or defend themselves.
+Actually, it’s not so much about the food, but about your attitude, what people sense when they are together with you.
 
-It breaks the power of fear and alienation and prejudice.
+Hospitality is an expression of grace.
 
-*An expression of freedom.*
+You give people an experience of being accepted, respected, appreciated and honored. A sense of belonging without having to qualify or to argue. It breaks the power of fear and alienation and prejudice.
 
-You create an environment free of control or accusations. Devoid of the need to impress or pretend. Allowing people to be who they are. Sharing your love. Creating community.
+It’s an expression of freedom.
 
-Creating an expression of how God is.
+You create an environment of generosity, free from control and free from guilt and accusations. Also free from the need to impress and pretend. Allowing people to be who they are. Giving them your love.
+
+Creating community.
+
+Creating an experience of how God is.
