@@ -3,7 +3,7 @@ title = "Share a Meal"
 date = "2015-09-15T06:39:19Z"
 image = "share a meal.png"
 +++
-Hospitality is an expression of God’s character.
+*Hospitality is an expression of God’s character.*
 
 Our Lord is a welcoming God. He is generous, nourishing, lavish, joyful…
 
