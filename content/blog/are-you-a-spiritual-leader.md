@@ -5,24 +5,24 @@ image = "are you a spiritual leader.png"
 +++
 Following Jesus rubs off.
 
-As a disciple of Jesus, you influence your environment and you influence people. Discipleship naturally emerges into spiritual leadership.
+As a disciple of Jesus, you influence your environment and the people around you. Discipleship naturally develops into leadership.
 
-It’s a different kind of leadership, though. Different from most characteristics that people normally associate with leadership, like power, position, title, status, money, popularity, image, good looks, high IQ, education, or whatever else may impress on people.
+It’s a different kind of leadership, though. Different from what most people would expect. Often lacking the most typical characteristics that you normally would associate with leadership, like power, position, title, status, money, popularity, image, good looks, high IQ, education, or whatever else impresses on people.
 
-It’s an up-side-down leadership based on servanthood, that is, on qualities like humility, honesty and integrity. Like trustworthyness, reliability and morality. And faithfulness and wisdom. And love. And the fear of the Lord.
+It’s an up-side-down leadership. It's based on servanthood and qualities like humility, honesty and integrity. Like trustworthiness, reliability and morality. And faithfulness and wisdom. And love. And the fear of the Lord.
 
-That is, on discipleship.
+In short, it's spiritual leadership.
 
-You can’t lead another person along a spiritual path that you are not familiar with and without being a disciple yourself. And you can’t lead that person into a living relationship with the Lord without knowing the Lord yourself, being lead by his Spirit and growing as his disciple.
+True spiritual leadership is based on discipleship, on being a disciple of Jesus. Discipleship comes first, spiritual leadership emerges from there.
 
-In short, you cannot lead anyone beyond the quality of your own discipleship.
+You can’t lead another person along a spiritual path without first having walked that path yourself. And you can’t lead that person into a fruitful disciple relationship without being a disciple yourself. The quality of your leadership depends uttermost on the quality of your discipleship.
+
+You cannot lead a disciple beyond the level of your own level.
 
 Therefore, are you looking for a spiritual leader? Then, have a closer look at his or her discipleship.
 
-Or, are you attempting to be or become a spiritual leader yourself? Again, have a real close look at the qualities of your discipleship.
+Or, are you attempting to be or become a spiritual leader yourself? Again, have a real close look at the quality of your discipleship, and never quit working on it.
 
-Discipleship comes first, true leadership emerges from there.
+As a spiritual leader you can't but be a disciple yourself. And as a disciple you will always influence others and leave marks in their lives.
 
-There is no healthy spiritual leadership without healthy, fruitful discipleship. Yet, true discipleship will always be influential and leave its marks.
-
-It just rubs off.
+If this applies to you, you probably are a spiritual leader.
