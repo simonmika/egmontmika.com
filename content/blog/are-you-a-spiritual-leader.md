@@ -22,3 +22,13 @@ Therefore, are you looking for a spiritual leader? Then, have a closer look at h
 On the other hand, fruitful disciples can naturally develop into spiritual leaders, independently of any formal position.
 
 You might be one of them.
+
+
+***Comments***
+----
+
+
+**Amelie** - LOVE IT!
+I always thought I needed more of the typical leadership qualities in order to be a great leader, but I found out that there are people around me that I can disciple. That makes being a leader so easy and it comes so natural.
+
+**Susan** - I am begining to see this more and more. Strange that it should take so long for me to arrive at this conclusion...Truly desire to walk this path with any who sincerely wants to join. :)
