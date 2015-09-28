@@ -13,11 +13,11 @@ That's *all-the-time!*
 
 The reason for that? Discipleship isn’t based on a service, a duty or a program. It's neither an employment nor a hobby.
 
-Discipleship is a relationship - your relationship with Jesus. And as his disciple you are a child of God; that’s a position and again, a relationship. Everything you do is done within that relationship and can be seen as an expression of it.
+Discipleship is a relationship - your relationship with Jesus. And as his disciple you are a child of God; that’s a position, and again a relationship. Everything you do is done within that relationship and can be seen as an expression of it.
 
 On the other hand, church organizations offer employments, full-time or part-time. And they engage volunteers, that is, spare-time workers.
 
-All these workers have their specific responsibilities and duties. They follow their instructions, work towards their goals, meet people's needs, and try to make everyone happy.
+All these workers have their specific responsibilities and duties. They follow the instructions, work towards the goals, meet people's needs, and try to make everyone happy.
 
 On top of that, they probably have an idea of listening to the Lord and try to follow him.
 
@@ -29,6 +29,8 @@ At worst, you may feel like having to serve two masters, which often results in 
 
 Jesus worked hard, yet never seemed to get any of these symptoms. Is it, because he only served one master and never submitted to people’s expectations?
 
-Thus, he was free to listen to his inner voice and obey the one who had sent him.
+Thus, he was free to listen to the Spirit and obey the One who had sent him.
 
 Any-time. All-the-time.
+
+This is for you and me.
