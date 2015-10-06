@@ -29,6 +29,6 @@ At worst, you may feel like having to serve two masters, which can lead to confl
 
 Jesus worked hard, yet never seemed to get any of these symptoms. Is it, because he only served one master and never submitted to people’s expectations?
 
-Thus, he was free to listen to the Spirit and obey the One who had sent him.
+Thus, he was free to wholeheartedly listen to the Spirit and obey the One who had sent him.
 
 Any-time. All-the-time.
