@@ -29,7 +29,7 @@ Judas didn’t have to end up in a tragedy. That was his own decision, his own s
 
 So how do you think about your recent failure? What’s your decision? Are you ready to welcome and embrace it and learn from it?
 
-And open a new and unexpected door?
+And open a new and unexpected door.
 
 
 ----
@@ -38,4 +38,4 @@ And open a new and unexpected door?
 
 *Geoffrey:*  Thank you Egmont! This is true and I have been in failures many times, and I have seen the hand of God in the end of it. The worst part was when I was laughed at, but I was deeply convicted that God my heavenly father will turn it up for his glory. Thanks again.
 
-*Reply:* Thank you, Geoff! You are right. The Lord is a master in turning things round. We just need to wait.
+*Reply:* Thank you, Geoff! You are right. The Lord is a master of turning things round. We just need to wait.
