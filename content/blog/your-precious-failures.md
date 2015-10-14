@@ -7,9 +7,9 @@ Nobody likes failures.
 
 However, failures are more precious than most of us are inclined to think.
 
-In fact, they can become stepping stones towards our final success. Don’t get me wrong, a failure really is a failure, not a success. It's ugly, discouraging, accusing, threatening, judging...!
+In fact, they can become stepping stones towards our final success. Don’t get me wrong, a failure really is a failure, not a success. It's ugly, discouraging, accusing, threatening, judging! However...
 
-A failure doesn't have to be the final word spoken though. The crucial question is, what do you do with it? What comes next?
+A failure doesn't have to be the final word spoken. The crucial question is, what do you do with it? What comes next?
 
 Think of Thomas Edison. Holding as many as 1093 patents in the United States, and in addition many patents in the United Kingdom, France, and Germany, he probably was one of the most prolific inventors of all times. Edison became famous not only for the widespread impact of his inventions, but also for his unbroken decisiveness to never give up. It is said that before succeeding with his first well-functioning light bulb in 1879, he went through around 2000 failures. When during the time of his endless struggles being asked, why he wouldn’t give up such a meaningless endeavor, he gave his well-known answer. ”It’s not a failure at all”, he said, ”I just found 2000 ways of how not to make a light bulb”.
 
