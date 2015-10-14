@@ -19,7 +19,7 @@ However, our problem is that we are stuck inside the box and all we can do is th
 
 So, how do you manage to think on the outside? What then makes individuals finally free themselves from the bonds of the well-known and secure paths of thought, risk a failure and jump the leap? How do you accomplish such a feat?
 
-Many times, it’s through a deep crisis caused by a failure. Sometimes, it’s out of pure desperation. You are stuck and can't see any way out. You hit the bottom and have nothing to loose.
+Many times, it’s through a deep crisis caused by a failure. Sometimes, it’s out of pure desperation. You are stuck and can't see any way out. You hit the bottom and have nothing to lose.
 
 This is when you are ready to stretch beyond what seems possible.
 
