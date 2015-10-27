@@ -1,31 +1,28 @@
 +++
 title = "Feeling Like a Failure?"
-date = 2015-10-21T03:01:45Z
-image = "Feeling like a failure?.png"
+image = "feeling.jpg"
 +++
 Having failed isn't the same as feeling like a failure.
 
-That feeling can be much worse.
+Feeling like a failure can be much worse than the actual failure.
 
-A failure in itself is just an event, not a feeling. It's something specific that happened to you at a specific time in a specific place. Like you didn’t pass the test, couldn’t keep your promise, missed your flight, lost your credit card, gave a foolish comment.
+A failure in itself is just an event, not a feeling. It's something specific that happened to you at a specific time in a specific place. Like you didn’t pass the test, couldn’t keep your promise, missed your flight, lost your credit card, or made a foolish comment.
 
 A failure can be dealt with successfully in basically three ways...
 
-1. You can repair the damage. There is no use of lamenting over spilled milk. You know what to do and just do it. A simple excuse can be added; that's good enough.
 
-2. You can’t repair the damage, but learn from it. Notorious late comers can actually stop blaming the circumstances and instead admit their failure, go to the bottom with that problem and take practical steps to change their habit.
+2. You can’t repair the damage, but you definitely can learn from it. Notorious late comers can actually stop blaming the circumstances and instead admit their failure, go to the bottom of their issue and take practical steps to change their habit.
 
-3. You can ignore it. If you just missed an opportunity, that’s it. Nothing more to think about. No use to grieve. It may challenge you emotionally and you may have to pay a price, but so what? You just leave it behind and go on.
+3. You can ignore it. If you just missed an opportunity, there isn’t much that can be done. No use of grieving. It may be emotionally challenging and you may have to pay a price, but so what? You must leave it behind you and carry on.
 
 It’s not always easy to handle a failure, but most failures can be dealt with in a rational way.
 
-It’s much harder to cope with feelings. Feelings are irrational.
+It’s much harder to cope with feelings. Feelings can be irrational.
 
-Feeling like a failure has very little to do with actually failing. You can fail a thousand times without necessarily feeling like a failure. On the other hand, you can feel like a failure in the face of obvious success.
+Feeling like a failure has very little to do with actually failing. You can fail a thousand times without necessarily feeling like a failure. On the other hand, you can even feel like a failure in the face of obvious success.
 
-Feeling like a failure isn’t based on what happened, but on our thinking. On the story we tell ourselves or what others tell us about ourselves. Such a story works like a prophesy. Once you believe it you will try to prove it and find evidence for it. For sure, you will always find what you are looking for.
 
-So if you want to feel discriminated, neglected, looked down at, hated or felt sorry for - no problem. Just keep focusing on that thought and you’ll get the feeling.
+So if you feel discriminated, neglected, looked down at, hated or felt sorry for, rest assured they have their origin in patterns of thoughts… in your story.
 
 However, if you want to protect yourself and stop feeling like a failure, there are a few essential steps you can take:
 
