@@ -1,5 +1,6 @@
 +++
 title = "Feeling Like a Failure?"
+date = 2015-10-28T03:01:45Z
 image = "feeling.jpg"
 +++
 Having failed isn't the same as feeling like a failure.
@@ -10,6 +11,7 @@ A failure in itself is just an event, not a feeling. It's something specific tha
 
 A failure can be dealt with successfully in basically three ways...
 
+1. You can repair the damage. There is no use crying over spilt milk. You know what to do, so just do it. Often a simple excuse is good enough.
 
 2. You can’t repair the damage, but you definitely can learn from it. Notorious late comers can actually stop blaming the circumstances and instead admit their failure, go to the bottom of their issue and take practical steps to change their habit.
 
@@ -21,6 +23,7 @@ It’s much harder to cope with feelings. Feelings can be irrational.
 
 Feeling like a failure has very little to do with actually failing. You can fail a thousand times without necessarily feeling like a failure. On the other hand, you can even feel like a failure in the face of obvious success.
 
+Feeling like a failure isn’t based on what has occurred, but on our thinking. On the story we tell ourselves or what others tell us about ourselves. Such a story works like a prophecy. Once you believe it, you will try to prove it and find evidence for it. For sure, you will always find what you are looking for.
 
 So if you feel discriminated, neglected, looked down at, hated or felt sorry for, rest assured they have their origin in patterns of thoughts… in your story.
 
@@ -34,4 +37,4 @@ However, if you want to protect yourself and stop feeling like a failure, there 
 
 If you choose the latter and start building your faith on His story, for sure, your feelings will follow and you will be healed and restored.
 
-The decision is yours.
+ The decision is yours.
