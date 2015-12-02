@@ -19,12 +19,8 @@ Eagles of Death Metal, the band that played at Bataclan that night, made the fol
 
 > "Although bonded in grief with the victims, the fans, the families, the citizens of Paris, and all those affected by terrorism, we are proud to stand together, with our new family, now united by a common goal of love and compassion."
 
-This view opens up for a better response and reminds me of the mission we have as followers of Jesus. Let me quote theologians Michael Frost and Alan Hirsch:
-
-> "For good or ill, we are players in the living drama going on around us. God has designed us as decision makers in his very image, as agents of the kingdom, not only to partake in history, but to prayerfully shape and direct it in his name as a true act of worship.
-
->And the part we play will depend largely on a clear sense of our mission, on the level of intentionality in what we do, and on the fortitude and integrity with which we do it. (…) It will also depend on the guide that we follow in that endeavor." (The Faith of Leap, p. 19)
-
+This view opens up for a better response and reminds me of the mission we have as followers of Jesus.
+ 
 You and I may not be able to stop terrorism and solve all the problems connected to it. However, we can remain the masters of our minds and our faith, guard our feelings and attitudes, care for each other, build trust relationships and cultivate community - Muslims included.
 
 Overcoming fear by practicing love and true humanity.
