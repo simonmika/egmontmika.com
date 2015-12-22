@@ -5,7 +5,7 @@ image = "it's-possible!.jpg"
 +++
 Jesus called us to make disciples. And making a disciple comes with a price.
 
-It costs you your time, energy, and money. It calls for patience, wisdom and endurance. A long-term commitment… a commitment for life.
+It costs you your time, energy, and money. It calls for patience, wisdom and endurance. A long-term commitment.
 
 Now you may wonder: Am I really prepared for this? Is it possible for me to give more time, energy, and money? Am I patient enough, wise enough, and committed enough?
 
