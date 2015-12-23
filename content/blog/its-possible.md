@@ -1,7 +1,7 @@
 +++
 title = "It's Possible!"
 date = "2015-12-22T06:39:19Z"
-image = "it's-possible!.jpg"
+image = "its-possible.jpg"
 +++
 Jesus called us to make disciples. And making a disciple comes with a price.
 
