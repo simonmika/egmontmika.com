@@ -1,15 +1,15 @@
 +++
-title = "It's Possible!"
+title = "For Those Who Care"
 date = "2015-12-22T06:39:19Z"
-image = "its-possible.jpg"
+image = "for-those-who-care.jpg"
 +++
 Jesus called us to make disciples. And making a disciple comes with a price.
 
-It costs you your time, energy, and money. It calls for patience, wisdom and endurance. A long-term commitment.
+It costs you your time, energy, and money. It calls for patience, wisdom and endurance. It's a long-term commitment.
 
 Now you may wonder: Am I really prepared for this? Is it possible for me to give more time, energy, and money? Am I patient enough, wise enough, and committed enough?
 
-As to time, energy and money, the answer is pretty simple: You already have enough. Weed out those projects and activities that you have given undue importance to. You may want to reevaluate your priorities. That should be possible.
+As to time, energy and money, the answer is pretty simple: You already have enough. Jesus didn't have more. Weed out those projects and activities that you have given undue importance to. You may want to reevaluate your priorities. That should be possible.
 
 Or, it should be possible for those who really care.
 
