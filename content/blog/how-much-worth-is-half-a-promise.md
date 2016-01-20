@@ -17,7 +17,7 @@ Many times, half is better than nothing. But not always. What about half a promi
 
 …and the answer you get never surpasses a ”maybe”, I would call this giving half a promise.
 
-Half a promise can be even worse than no promise.
+Half a promise can be worse than no promise.
 
 With a ”no”, you still had the choice of asking someone else, but with a ”maybe” you are stuck. You don’t get anywhere, and things can get even worse. Like, when "promising" a beach vacation to your family, or "agreeing" to engage in a project, or "promising" a life-long marriage - and never getting beyond a "maybe"...
 
