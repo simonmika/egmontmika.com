@@ -11,7 +11,7 @@ However, an idea is quite irrelevant as long as it isn’t tested.
 
 The testing makes all the difference. It separates the achiever from the mere dreamer. The testing is the real hard part.
 
-Probably, one thing the testing shows is that your great idea isn’t really that great. Others had the same idea before you and didn’t find it worth the trouble to make it work out. Or they gave it some tries and failed. You’ll have to understand that, before you can start working on it and investing your time and energy.
+Probably, one thing the testing shows is that your great idea isn’t really that great. Others had the same idea before you and didn’t find it worth the trouble to make it work out. Or they gave it some tries and failed. You should know about that, before you start working and investing your time and energy.
 
 This requires honesty, good judgement and decidedness.
 
