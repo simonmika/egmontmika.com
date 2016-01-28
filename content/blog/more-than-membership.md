@@ -1,7 +1,6 @@
 +++
 title = "More than Membership"
 date = "2014-01-03T16:54:13Z"
-image = "egmont porträtt favorit 4 beskuren.jpeg"
 +++
 Church membership doesn't turn you into a disciple. 
 

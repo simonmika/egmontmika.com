@@ -1,14 +1,14 @@
 +++
 title = "Only Disciples Make Disciples"
 date = "2014-08-22T13:58:11Z"
-image = "Nur Jünger redig.jpg"
+image = "only disciples make disciples.jpg"
 +++
 
 Institutions and offices cannot make disciples. Only disciples can.
 
 Institutions can plan and execute, administrate and produce. They can influence and direct. And they can do a good job at all this!
 
-The typical process how institutional churches are run starts with bringing people to “church”, engaging them in church activities and programs, making them agree to certain doctrinal beliefs, and socializing them into their specific church culture, with the ultimate goal of generating members and church workers. But we have to realise that all these efforts do not necessarily make one a disciple of Jesus Christ.
+The typical process how institutional churches are run starts with bringing people to “church”, engaging them in church activities and programs, making them agree to certain doctrinal beliefs, and socializing them into their specific church culture, with the ultimate goal of generating members and church workers. But we have to realize that all these efforts do not necessarily make one a disciple of Jesus Christ.
 
 Making disciples works at a much deeper level with profound implications.
 
@@ -18,7 +18,7 @@ This process is most likely facilitated by a fellow disciple one-on-one, bringin
 
 It's a wonderful, shared journey. At times, especially in the beginning, it can be a labour and a struggle. 
 
-Disciples are made by people who are familiar with that struggle and filled with the realisation of the victory that Jesus has won for them. They know who they are in him, and what they are able to do in his name. They know his heart and recognise his voice in their spirits. They impart to others who they are and what they are. And in and through all this they give glory to the Lord.
+Disciples are made by people who are familiar with that struggle and filled with the realization of the victory that Jesus has won for them. They know who they are in him, and what they are able to do in his name. They know his heart and recognize his voice in their spirits. They impart to others who they are and what they are. And in and through all this they give glory to the Lord.
 
 Institutions and offices can never achieve all this. Only disciples can!
 

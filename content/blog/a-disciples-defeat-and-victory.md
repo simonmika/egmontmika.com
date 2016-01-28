@@ -1,7 +1,7 @@
 +++
 title = "A Disciple's Defeat and Victory"
 date = 2015-03-18T03:01:45Z
-image = "a disciple's defeat and victory.png"
+image = "a disciples defeat and victory.png"
 +++
 
 The road of discipleship is a rocky road.

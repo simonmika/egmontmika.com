@@ -1,7 +1,7 @@
 +++
 title = "Your Precious Failures"
 date = 2015-10-14T03:01:45Z
-image = "your precious failure.png"
+image = "your precious failures.jpg"
 +++
 Nobody likes failures.
 

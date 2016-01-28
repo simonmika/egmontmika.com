@@ -1,7 +1,7 @@
 +++
 title = "Full-Time, Part-Time or Spare-Time Ministry?"
 date = "2015-09-30T06:39:19Z"
-image = "full-time_part-time_spare-time.png"
+image = "full-time-half-time-or-spare-time-ministry.png"
 +++
 As a disciple of Jesus, do you have a full-time or a part-time ministry?
 

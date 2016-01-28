@@ -1,5 +1,5 @@
 +++
-title = "How Much Worth Is Half a Promise?"
+title = "How Much Is Half a Promise Worth?"
 date = 2016-01-06T03:01:45Z
 image = "how much worth is half a promise.png"
 +++

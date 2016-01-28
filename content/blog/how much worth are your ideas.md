@@ -1,5 +1,5 @@
 +++
-title = "How Much Worth Are Your Ideas?"
+title = "How Much Are Your Ideas Worth?"
 date = "2016-01-20T06:39:19Z"
 image = "how much worth are your ideas.png"
 +++
