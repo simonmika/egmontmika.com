@@ -10,7 +10,7 @@ My wife and I do not hold any of these offices and we never formally started a c
 
 However, there has been an informal community of disciples around us ever since we opened up our family and our home and let others join us in our walk with Jesus.
 
-This has been going on for more than 40 years and it still continues: Informal gatherings for meals, worship, bible study, prayer, counselling, working on a project, celebrations, hikes and other outdoor activities, parties, traveling... and of course, personal mentoring and baptism.
+This has been going on for more than 40 years and it still continues: Informal gatherings for meals, worship, bible study, prayer, counseling, working on a project, celebrations, hikes and other outdoor activities, parties, traveling... and of course, personal mentoring and baptism.
 
 Some of these people have been living with us in our home for a year or two, or just a few months, some of them have been working with us daily.
 
@@ -20,7 +20,7 @@ Probably, most people wouldn't call it a "real church”.
 
 Nevertheless, there has been a constant flow of new connections, of teaching and modeling, and a building of community. In Jesus' name and under the guidance of his Spirit.
 
-Many of those who have been around us during these years now live in other countries and other continents. With some of them we still are in touch, per email, through social media and through actually visiting each other. Flights are cheap nowadays and make it possible.
+Many of those who have been around us during these years now live in other countries and on other continents. With some of them we still are in touch, per email, through social media and through actually visiting each other. Flights are cheap nowadays and make it possible.
 
 This wonderful bunch of people - we may call it community - is both very little and quite large, anything between two or three and nearly a hundred.
 
