@@ -19,7 +19,7 @@ Do these questions irritate you? Or do they inspire you?
 
 No matter, what your spontaneous reaction is, wouldn’t it be worth while to jot down some of your points?
 
-Would you like to *do* it?
+Would you like to **do** it?
 
 The challenge for you right now is to not just agree to my idea, but to actually grab a pen and a piece of paper and do it. Not just think, but write. Right now.
 
