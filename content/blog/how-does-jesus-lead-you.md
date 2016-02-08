@@ -31,9 +31,8 @@ And let them give you clarity and strengthen you.
 --------------------------
  ***Comments***
 
- **Geoffrey**
-
+ **Geoffrey:** 
 You nailed it brother, thanks for touching the sensitive conditions of our faith in JESUS.
-This makes me to stand still and find back the true meaning of my calling in him.
+This makes me stand still and find back the true meaning of my calling in him.
 Thanks again.
 Geoff
