@@ -27,3 +27,13 @@ You may find it hard to get started, but don’t let that hinder you. The flow w
 Then, choose two or three of your points and meditate a while on each one of them.
 
 And let them give you clarity and strengthen you.
+
+--------------------------
+ ***Comments***
+
+ **Geoffrey**
+
+You nailed it brother, thanks for touching the sensitive conditions of our faith in JESUS.
+This makes me to stand still and find back the true meaning of my calling in him.
+Thanks again.
+Geoff
