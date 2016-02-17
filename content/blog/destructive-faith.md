@@ -26,4 +26,4 @@ However, there are situations when you’ll have to jump the canyon. You can’t
 
 In case you are in that kind of a situation, the Lord may give you wisdom and courage.
 
-And faith.
+And faith to act.
