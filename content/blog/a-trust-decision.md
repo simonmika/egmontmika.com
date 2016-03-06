@@ -1,7 +1,7 @@
 +++
 title = "A Trust Decision"
 date = "2016-03-06T06:39:19Z"
-image = "trust.jpg"
+image = "a-trust-decision.jpg"
 +++
 
 Discipleship is a decision.
