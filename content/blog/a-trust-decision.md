@@ -1,29 +1,43 @@
 +++
-draft = "True"
 title = "A Trust Decision"
-date = 2016-02-28T03:01:45Z
-image = "a-trust-decision.png"
+date = "2016-03-06T06:39:19Z"
+image = "trust.jpg"
 +++
-Discipleship is a choice.
+
+Discipleship is a decision.
 
 You don’t just slide into being a disciple of Jesus by accident. Or wake up one morning and find yourself having arrived there.
 
 It always requires a conscious decision on your behalf - your own personal decision.
 
-Neither your father or mother, nor your buddies can decide that for you. Nobody else can, but you. And it’s not a matter of background, tradition, culture, age, education, talent or opinion…
+Neither your father nor mother, nor your buddies can do that for you. Nobody else can, but you. You don't have to wait for anyone's agreement, nor is there anyone else to blame for not taking that decision. And it’s not a matter of background or tradition or culture or age or education or talent or intellect or opinion…
 
-It’s a matter of trust. Trust in God.
+It’s a matter of trust.
 
-Anyone can make that decision.  Yet, it isn’t easy for anyone. You will always meet resistance. The way resistance comes can be different from person to person and it can vary in strength, but for sure, it will come..
+Trust in Jesus and trust in his Father.
 
-It can come from the outside, from your family, your relatives, your buddies… as a slight sneering comment or a solid death threat, or anything in between.
+Anyone can make that decision, yet, this doesn’t mean that it’s easy. Before arriving at that point, you will always meet resistance. The way the resistance comes can be different from person to person and it can vary in strength.
 
-It also can come from the inside, from your own thinking, your distrust and fear, or your pride and self-righteousness. Or your doubts. Or your complacency… The resistance has many faces and many expressions.
+Yet, be sure, there will be resistance.
 
-When facing the choice, it always seems easier to choose the other option, that is, not to follow Jesus. Or to postpone the decision. Or to pretend.
+For some of us, the resistance comes from the outside, from our families, our relatives or our buddies, from their expectations and traditions.
 
-However, no matter how strong the resistance, you’ll always find people ready for a quality decision to follow Jesus, even in the face of persecution - truly a great decision.
+From their fears.
 
-It takes courage.
+It may come as light as a slight sneering comment or as heavy as a solid death threat, or as anything in between.
+
+Resistance may also come from the inside, from our own thinking. From our distrust and doubts. Or from our pride or self-righteousness, or self-assurance...
+
+From our own fear.
+
+The resistance has many expressions, but basically only one root: ours and others fear.
+
+Therefore, when facing the choice, it always seems easier to not follow Jesus or to postpone the decision. Or to pretend, which probably is the worst of all options. Jesus hated hypocrisy more than sin.
+
+However, no matter how strong the resistance, you can at any time frankly take that decision and you’ll always find people who do the same and follow Jesus, in spite of the resistance and even under persecution.
+
+It’s truly a great and powerful decision with long-ranging and serious consequences, and with great and positive results for yourself as well as your surroundings. You won't ever regret it.
+
+However, it takes courage to follow Jesus.
 
 And trust!
