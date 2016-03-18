@@ -5,7 +5,7 @@ image = "two-ways-to-benefit-from-your-enemies.png"
 +++
 You can benefit from your enemies.
 
-Yes, you not only benefit from your families, relatives and friends and all who love you, but in fact, you can also benefit from your enemies, from those who oppose you, bother you, despise you, hate you, treat you badly.
+Indeed, you not only benefit from your families, relatives and friends and all who love you, but you can also benefit from your enemies, from those who oppose you, bother you, despise you, hate you, treat you badly.
 
 If you understand this, you can turn those negative relationships into an asset.
 
@@ -21,7 +21,7 @@ That is - for our maturity.
 
 Let’s now apply this principle to your negative relationships.
 
-You may start out on a rather convenient level that most of us probably would be able to manage. Just start with one of your easier ”enemies”. That could be someone who just slightly irritates or opposes you. Maybe there is a neighbor or a colleague or a relative who would qualify in this respect.
+You may start out on a rather convenient level that most of us probably would be able to manage. Just start with one of your easier ”enemies”. This could be someone who just slightly irritates or opposes you. Maybe there is a neighbor or a colleague or a relative who would qualify in this respect.
 
 You start out by deciding to think and speak positively of this person and by doing so, you increasingly change your attitude towards that person. You also pray for him or her, not in order to change them, but to bless. Maybe you can also find a way to express your new attitude by a simple action, like a smile, an encouraging comment, a helping hand or whatever comes to your mind.
 
