@@ -1,7 +1,7 @@
 +++
 title = "Honest and Joyful"
 date = 2016-04-01T03:01:45Z
-image = "your precious failures.jpg"
+image = "honest and joyful.jpg"
 +++
 Meeting people is exciting.
 
