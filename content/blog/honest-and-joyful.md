@@ -1,7 +1,7 @@
 +++
 title = "Honest and Joyful"
 date = 2016-04-01T03:01:45Z
-image = "Honest and joyful.jpg"
+image = "honest and joyful.jpg"
 +++
 Honest and Joyful
 
