@@ -15,7 +15,7 @@ We need that kind of conversations.
 
 We need them in order to grow. And it’s a great joy to help each other along the way. That’s beautiful!
 
-On the other hand, is there anything more boring than listening to gossip or constant lamenting or judging comments on others? Badly enough you can have conversations that drain your energy and make you feel empty.
+On the other hand, is there anything more boring than listening to gossip or constant lamenting or judging comments on others? Badly enough, you can have conversations that drain your energy and make you feel empty.
 
 What are your conversations like? It’s your choice and your responsibility.
 
