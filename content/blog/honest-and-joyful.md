@@ -3,8 +3,6 @@ title = "Honest and Joyful"
 date = 2016-04-01T03:01:45Z
 image = "honest and joyful.jpg"
 +++
-Honest and Joyful
-
 Meeting people is exciting.
 
 It’s always exciting to listen to someone’s story. Everyone has a story worth listening to and learning from, as long they are honest and their story is true. And it’s exciting and worth both time and effort to get engaged with people who are honest about themselves and about what they do. Free from pretending.

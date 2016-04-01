@@ -9,11 +9,11 @@ Our Lord is a welcoming God. He is generous, nourishing, lavish, joyful…
 
 He is hospitable.
 
-And this is what we are communicating to others when being hospital. It’s as easy as sharing a meal with a friend, a collegue, a neighbor, or a stranger. Or why not a beggar! God is indiscriminate.
+And this is what we are communicating to others when being hospital. It’s as easy as sharing a meal with a friend, a colleague, a neighbor, or a stranger. Or why not a beggar! God is indiscriminate.
 
 He is including.
 
-Your meal doesn’t have to be fancy; don’t let it be exclusive. There is no need to impress on anyone. Just share what you have, it may be abundant or little, a three-course dinner or a glas of water. Or a piece of chocolate or a banana. Just act hospitable according to the situation.
+Your meal doesn’t have to be fancy; don’t let it be exclusive. There is no need to impress on anyone. Just share what you have, it may be abundant or little, a three-course dinner or a glass of water. Or a piece of chocolate or a banana. Just act hospitable according to the situation.
 
 Actually, it’s not so much about the food, but about your attitude, what people sense when they are together with you.
 
