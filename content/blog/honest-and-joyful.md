@@ -17,6 +17,6 @@ We need them in order to grow. And it’s a great joy to help each other along t
 
 On the other hand, is there anything more boring than listening to gossip or constant lamenting or judging comments on others? Badly enough, you can have conversations that drain your energy and make you feel empty.
 
-What are your conversations like? It’s your very much choice and your responsibility.
+What are your conversations like? It’s very much your own choice and responsibility.
 
 Let them be honest and joyful.
