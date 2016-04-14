@@ -12,7 +12,7 @@ What would that be like?
 Setting a Jesus-standard
 ------------------------
 
-First, it demands an unwavered decision for the standard you want to set. It's not always a given choice; you’ll have to find out and understand what the Jesus-standard in your situation actually is.
+First, it demands a clear decision for the standard you want to set. It's not always a given choice; you’ll have to find out and understand what the Jesus-standard in your situation actually is.
 
 Don't expect it to be convenient or easy. Nor will it always be familiar or acknowledged by those around you. It may not even necessarily fit into your religious tradition, or correspond to any cultural or political correctness.
 
