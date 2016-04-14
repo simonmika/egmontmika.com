@@ -1,7 +1,7 @@
 +++
 title = "Stuff or People?"
 date = 2016-04-14T03:01:45Z
-image = "stuff or people.png"
+image = "stuff or people.jpg"
 +++
 Imagine someone handed you 10.000 USD to spend on whatever you want. The only condition would be that you had to spend it right away, on the same day.
 
