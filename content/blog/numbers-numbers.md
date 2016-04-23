@@ -7,7 +7,7 @@ Church leaders tend to be highly interested in statistics.
 
 Typically, they are asking questions like, How many members does the church have, how high is the weekly attendance and how much did the offering bring? And they want to know how these numbers develop from week to week, month to month and year to year?
 
-Admitted, statistics are useful. They enable us to measure and to compare, they help us to set up goals and to stay focussed, and they make us feel successful whenever numbers go up. Numbers seem to show a church’s growth in a reliable, objective way. At least, this is what church leaders seem to think.
+Admitted, statistics are useful. They enable us to measure and to compare, they help us to set up goals and to stay focussed, and they make us feel successful whenever numbers go up. Numbers seem to show a church’s growth in a reliable, objective way. At least, this is what many church leaders seem to think.
 
 Yet, there is a problem.
 
