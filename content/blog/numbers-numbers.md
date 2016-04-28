@@ -3,7 +3,7 @@ title = "Numbers, Numbers, Numbers!"
 date = 2016-04-28T03:01:45Z
 image = "numbers2.jpg"
 +++
-Church leaders tend to be highly interested in statistics.
+Church leaders tend to be highly interested in numbers.
 
 Typically, they ask questions like, How many members does the church have, how high is the weekly attendance and how much did the offering bring? And they want to know how these numbers develop from week to week, month to month and year to year?
 
