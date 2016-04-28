@@ -1,13 +1,13 @@
 +++
-title = "Numbers, numbers..."
+title = "Numbers, Numbers, Numbers!"
 date = 2016-04-28T03:01:45Z
 image = "numbers2.jpg"
 +++
 Church leaders tend to be highly interested in statistics.
 
-Typically, they are asking questions like, How many members does the church have, how high is the weekly attendance and how much did the offering bring? And they want to know how these numbers develop from week to week, month to month and year to year?
+Typically, they ask questions like, How many members does the church have, how high is the weekly attendance and how much did the offering bring? And they want to know how these numbers develop from week to week, month to month and year to year?
 
-Admitted, statistics are useful. They enable us to measure and to compare, they help us to set up goals and to stay focussed, and they make us feel successful whenever numbers go up. Numbers seem to show a church’s growth in a reliable, objective way. At least, this is what many church leaders seem to think.
+Admitted, statistics are useful. They enable us to measure and to compare, to set up goals and to stay focussed, and they make us feel successful whenever numbers go up. Numbers seem to show a church’s growth in a reliable, objective way. At least, this is what we tend to think.
 
 Yet, there is a problem.
 
@@ -21,6 +21,6 @@ If spiritual qualities and the actual outcome of the church are not included in 
 
 In the light of the church’s mission, the ultimate question for a leader and for every follower of Jesus must be, Do we really make disciples of Jesus or are we just having programs? And furthermore, do those who have been discipled, in their part, go on and make disciples? These questions are crucial, as they touch the very nerve of the church's mission.
 
-In this perspective, making a handful of quality disciples may by far outweigh a thousand more names of members or attendees on our lists. After all, disciples are the kind of result that Jesus is expecting, and we can't fool him.
+In this perspective, making a handful of quality disciples may by far outweigh a thousand more names of members or attendees on our lists. After all, disciples are the kind of result that Jesus is expecting. We can't fool him.
 
-Yet, are we possibly, by too much focussing on numbers, fooling ourselves?
+Yet, are we possibly fooling ourselves?
