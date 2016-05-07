@@ -4,7 +4,7 @@ date = "2016-05-11T06:39:19Z"
 image = "is your church stable.jpg"
 +++
 
-One significant characteristic of virtually all organizations is the pursuit of stability.
+One significant characteristic of an organization is the pursuit of stability.
 
 The same with churches and home groups.
 
@@ -30,7 +30,7 @@ The solution would be to start all over again. To take risks, to stretch our pos
 
 To humble ourselves and engage with people. And get messy.
 
-By starting all over again we may loose the stability of our organization, the cosiness and familiarity of our fellowship, our comfort, complacency and respectability…
+By starting all over again we may loose the stability of our organization, the cosiness and familiarity, our comfort, complacency and respectability…
 
 We may loose it all - but win some souls.
 
