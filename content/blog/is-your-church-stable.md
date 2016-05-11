@@ -34,6 +34,6 @@ We may loose our stability, the cosiness and familiarity of our fellowship, our 
 
 We may loose it all -
 
-but, again, win some souls and make some disciples for Jesus.
+but again, win souls and make disciples for Jesus.
 
 Wouldn't it be worth it?
