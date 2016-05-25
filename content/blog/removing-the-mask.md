@@ -7,11 +7,11 @@ He was a pastor. A gifted preacher and brilliant Bible school teacher, respected
 
 Then the unexpected happened.
 
-In short: One day, he left his wife and family, quit his ministry and moved to a far away country in order to start all over again, leaving his family, co-workers and church members behind in shock.
+In short, one day he left his wife and family, quit his ministry and moved to a far away country in order to start all over again, leaving his family, co-workers and church members behind in shock.
 
 In a letter, he described his desperation, revealing that he had been depressed for a longer period, feeling like a failure and even planned to take his life.
 
-For the last three years he had been trying to keep a mask and fulfill his duty as a pastor, trying to perform whatever was expected. But now he couldn’t do it anymore.
+For the last three years he had been trying to keep a mask and fulfill his duty as a pastor, trying to perform whatever was expected. But now he just couldn’t do it anymore.
 
 The mask had to be removed.
 
@@ -25,7 +25,7 @@ The reason seems to be fear. The fear of failing and being exposed and rejected,
 
 We could call it hypocrisy, yet, let me add another aspect.
 
-Could it also be due to the gap, which the people around him produced by expecting him to be someone else than he really is. This person may be totally honest, not pretending anything, nevertheless, people identify him with the role they want him to play according to their own concept, according to how they picture him in their imagination.
+Could it also be due to the gap, which the people around him produced by expecting him to be someone else than he really is? This person may be totally honest, not pretending anything, nevertheless, people identify him with the role they want him to play according to their own concept, according to how they picture him in their imagination.
 
 They may want to see him as the strong leader, the man or woman of God, the apostle, the prophet or the performer of miracles, someone who makes things happen, things that satisfy their desire for affirmation and spiritual experiences.
 
@@ -41,4 +41,4 @@ Lifting any burden of guilt and shame from each other and together enjoy our liv
 
 Removing our masks - becoming vulnerable.
 
-It's not a shame but a first step into the freedom of an authentic life.
+It's not a shame, but a first step into the freedom of an authentic life.
