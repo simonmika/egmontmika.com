@@ -27,7 +27,7 @@ We could call it hypocrisy, yet, let me add another aspect.
 
 Could it also be due to the gap, which the people around him produced by expecting him to be someone else than he really is? This person may be totally honest, not pretending anything, nevertheless, people identify him with the role they want him to play according to their own concept, according to how they picture him in their imagination.
 
-They may want to see him as the strong leader, the man or woman of God, the apostle, the prophet or the performer of miracles, someone who makes things happen, things that satisfy their desire for affirmation and spiritual experiences.
+They may want to see him as the strong leader, the man of God, the apostle, the prophet or the performer of miracles, someone who makes things happen, things that satisfy their desire of affirmation and spiritual experiences.
 
 This could be rapid church growth or anything supernatural, something that gives them a sense of God’s presence, anything that produces the desired spiritual kick they might be missing in their own private lives.
 
