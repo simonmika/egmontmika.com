@@ -6,11 +6,11 @@ image = "ready for a change.png"
 
 Have you ever tried to change someone’s habit with the help of arguments?
 
-Or have you tried to convince yourself with arguments and then change an old habit? Like introducing a new diet or daily physical exercise or regular study and prayer time - or a habit of always being on time?
+Or have you tried to convince yourself with arguments and then change an old habit? Like introducing a new diet or a daily workout or study and prayer time, or making it a habit to always be on time? Or...?
 
 Did it work out for you? Not only for a few times, but continuously? And in case it did, did you succeed because of the arguments?
 
-My experience is that whenever I succeeded with establishing a new habit, I was in a crisis, or desperate enough or just fed up with the status quo. Or filled with a vision. I really wanted a change, no matter what the reasoning, and long before I knew all the arguments.
+My experience is that whenever I managed to establish a new habit, I was in a crisis, or desperate enough or just fed up with the status quo. Or filled with a vision. I really wanted a change, no matter what the reasoning, and long before I knew all the arguments.
 
 We probably change a habit on other grounds than logical thinking. Yet, once the decision is made we welcome arguments to back it up with, and we use these arguments whenever we feel a need to motivate or defend the decision.
 
