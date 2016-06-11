@@ -23,3 +23,9 @@ We fool ourselves when we think of having accomplished anything by just listenin
 On the other hand, in case we are honest and willing to change, good sermons can be quite useful and inspiring. If you are ready to change, they can help you make a good decision and then act accordingly.
 
 It’s up to you and me to make it happen.
+
+---------------------------------------------------------------------
+**Comment**
+
+*Pamela*
+I have tried so hard to get people to see their true self so they can get the help they need from God and man and it has only resulted in futile arguments as you point out! Most people just want to talk about their problems and they will go on repeating it to anyone who would listen. The only thing that can change me or anyone is time spent alone with God ... unhurried time .... listening to the heart of God and giving control of my life again and again back to Him so Christ can be born in me and live in me. This is a daily struggle until the surrender is total and perfection is won in Christ!! Apostle Paul is a great example to follow!
