@@ -42,3 +42,15 @@ Lifting any burden of guilt and shame from each other and together enjoy our liv
 Removing our masks - becoming vulnerable.
 
 It's not a shame, but a first step into the freedom of an authentic life.
+
+------------------------------------------------------------------------------
+**Comments**
+
+*Karin*
+
+Thank you for this very important statement! I think you are right in describing this tragic story. It is not just one person that failed and went wrong. The responsibility must be shared with the leaders. It is so important to say this!
+
+---------------------------
+*Pamela*
+
+Wearing a Mask seems to be The Way of life for most Christians! If someone gets real in a prayer group for example, and tells their problem or mention they are in a crisis, the rest in the group become deathly quiet or someone makes an insane move by saying, "Oh she or he must be extra tired. Otherwise they are such wonderful people. We can pray for them." This shuts down the person who is desperately trying to reach out for help and what God wants to do for that person in the midst of the Body of Christ before it becomes a total tragedy!
