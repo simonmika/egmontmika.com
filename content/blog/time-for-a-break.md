@@ -26,4 +26,5 @@ Thank you so much for your response.
 Have a nice summer! Hopefully, you will hear from me again at the end of August.
 
 Yours,
+
 Egmont
