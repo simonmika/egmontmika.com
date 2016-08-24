@@ -28,4 +28,4 @@ Doing something that matters!
 
 Exciting is fine, yet, mattering is way more important. And still more exciting than a thrill.
 
-Even in the long run.
+Also in the long run.
