@@ -1,33 +1,31 @@
 +++
-title = "Better than Thrilling"
+title = Better than a Thrill"
 date = 2016-08-24T03:01:45Z
 image = "better than thrilling.jpg"
 +++
 
-Are you looking for a thrill?
+Are you looking for a thrill? Something really exciting?
 
-You might have been thrilled when you experienced the Lord for the first time, or when you got baptized in the Spirit and started speaking in tongues, or when you for the first time prayed for someone and this person actually got healed on the spot. Or maybe when you sensed the Lord’s presence during a special worship service…
+You might have been excited when you experienced the Lord for the first time, or when you got baptized in the Spirit and started speaking in tongues, or when you for the first time prayed for someone and this person actually got healed on the spot. Or maybe when you sensed the Lord’s presence during a special worship service… That, if anything, is really exciting!
 
 But now the thrill is gone.
 
-Of course it is. According to human nature, emotional kicks are temporary, they are over soon.
+Of course it is.
 
-Repeating the same thing over and over again just isn’t that much of a thrill. You may love your work, but it probably doesn’t give you a kick every time you open the door to your office. Not like the day you did it for the first time.
+According to human nature, emotional kicks are temporary; they don't last. That's included in the definition of a thrill.
 
-So, if you are looking for excitement, you will have to find a new experience. And after that another one, and  then still another, again and again. And every time you'll get satisfied just for a little while.
+Repeating the same thing over and over again just isn’t that much of a thrill. You may love your work, but it probably doesn’t give you a kick every time you open the door to your office. Not like the day you entered it for the first time.
 
-Is this why some married people are looking for a new partner when they realize their first excitement is gone?
+So, if you are looking for excitement, you will have to find a fresh experience. And after that you’ll need another one, and then still another, again and again. And every time you seem to get satisfied, yet, the feeling just lasts for a little while.
 
-The life of a disciple of Jesus isn’t to chase excitements, not even spiritual ones.
+At times, the life of a disciple of Jesus can be extraordinarily exciting, indeed. Yet, a disciple's life is not at all about chasing excitements, not even spiritual ones.
 
-Rather, it’s to faithfully continue the journey you set out on a while ago. To see the needs around you with open eyes, to listen to the Lord and do whatever is required. To make the necessary changes in your own life and to lead others along that same path.
+Rather, it is to faithfully continue the journey you set out on some time ago. You see the needs around you here and now with open eyes, listen to the Lord and do whatever is required. You make the necessary changes in your own life and lead others along that same path.
 
-It's a long time commitment, day after day.
+It's a long time commitment, and it is put into practice day by day. Changing the world through thousands of small, persistent steps to the better. Joyfully overcoming the resistance from within you and from the outside. Making a difference.
 
-Doing something that matters.
-
-Making a difference. Changing the world in small persistent steps to the better.
+Doing something that matters!
 
 Exciting is fine, yet, mattering is way more important.
 
-And, in the long run, even more exciting.
+And, in the long run, even more exciting than a thrill.
