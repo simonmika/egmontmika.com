@@ -26,6 +26,6 @@ It's a long time commitment, and it is put into practice day by day. Changing th
 
 Doing something that matters!
 
-Exciting is fine, yet, mattering is way more important.
+Exciting is fine, yet, mattering is way more important. And still more exciting than a thrill.
 
-And even more exciting than a thrill.
+Even in the long run.
