@@ -1,5 +1,5 @@
 +++
-title = "Better than a Thrill2"
+title = "Better than a Thrill"
 date = 2016-08-24T03:01:45Z
 image = "brauchst du einen kick.jpg"
 +++
