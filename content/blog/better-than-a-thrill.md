@@ -1,7 +1,7 @@
 +++
-title = Better than a Thrill"
+title = "Better than a Thrill"
 date = 2016-08-24T03:01:45Z
-image = "better than thrilling.jpg"
+image = "better than a thrill.jpg"
 +++
 
 Are you looking for a thrill? Something really exciting?
