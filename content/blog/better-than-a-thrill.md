@@ -6,7 +6,7 @@ image = "better than a thrill.jpg"
 
 Are you looking for a thrill? Something really exciting?
 
-You might have been excited when you experienced the Lord for the first time, or when you got baptized in the Spirit and started speaking in tongues, or when you for the first time prayed for someone and this person actually got healed on the spot. Or maybe when you sensed the Lord’s presence during a special worship service… That, if anything, is really exciting!
+You might have been excited when you experienced the Lord for the first time, or when you got baptized in the Spirit and started speaking in tongues, or when you for the first time prayed for someone and this person actually got healed on the spot. Or maybe when you sensed the Lord’s presence during a special worship service… That, if anything, is really exciting! We may call it a thrill.
 
 But now the thrill is gone.
 
