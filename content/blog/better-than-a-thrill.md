@@ -1,7 +1,7 @@
 +++
 title = "Better than a Thrill"
 date = 2016-08-24T03:01:45Z
-image = "better than a thrill.JPG"
+image = "better than a thrill.jpg"
 +++
 
 Are you looking for a thrill? Something really exciting?
@@ -28,4 +28,4 @@ Doing something that matters!
 
 Exciting is fine, yet, mattering is way more important.
 
-And, in the long run, even more exciting than a thrill.
+And even more exciting than a thrill.
