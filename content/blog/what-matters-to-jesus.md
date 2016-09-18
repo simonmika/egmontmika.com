@@ -5,8 +5,6 @@ image = "a jesus community.png"
 draft = true
 +++
 
-What Matters to Jesus
-
 First of all, it’s the glory of his Father in Heaven. To honor Him and to carry out His will. How does he do that? 
 
 By caring for people. 
