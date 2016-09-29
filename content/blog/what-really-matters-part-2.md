@@ -1,5 +1,5 @@
 +++
-title = "What Really Matters, Part 2"
+title = "What Really Matters - Part 2"
 date = 2016-09-14T03:01:45Z
 image = "what really matters part 2.jpg"
 +++
