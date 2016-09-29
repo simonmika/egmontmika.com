@@ -2,7 +2,7 @@
 title = "What Really Matters - Part 3"
 date = "2016-09-28T06:39:19Z"
 image = "what really matters part 3.png"
-draft = true
+
 +++
 
 You are a follower of Jesus? In this case, you might be interested in the question,
