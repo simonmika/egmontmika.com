@@ -19,7 +19,7 @@ Today, the Father is about to prepare humanity for eternity by building His univ
 
 As a disciple of Jesus, you are an agent of Father’s love in this world. 
 
-For you his means, sharing your life and giving your life.
+For you this means, sharing your life and giving your life.
 
 You may lift your hands and sing worship songs, you may fast and spend hours in prayer in order to honor God. That's fine. 
 
