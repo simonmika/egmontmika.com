@@ -13,13 +13,13 @@ Jesus himself said, it’s the glory of his Father in Heaven. To honor Him and t
 
 By loving people. 
 
-For Jesus this meant, sharing his life and giving his life.
+For Jesus, this meant sharing his life and giving his life.
 
 Today, the Father is about to prepare humanity for eternity by building His universal family. And He does this in the power of His Spirit and through those who already responded to His love and follow Jesus. 
 
 As a disciple of Jesus, you are an agent of Father’s love in this world. 
 
-For you this means, sharing your life and giving your life.
+For you,this means sharing your life and giving your life.
 
 You may lift your hands and sing worship songs, you may fast and spend hours in prayer in order to honor God. That's fine. 
 
@@ -29,4 +29,4 @@ You can’t honor the Father without caring for the ones He cares for.
 
 What matters to Jesus? To him, this is totally clear.
 
-Does it matter to you?
+What matters to you?
