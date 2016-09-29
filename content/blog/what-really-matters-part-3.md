@@ -5,9 +5,9 @@ image = "what really matters part 3.png"
 draft = true
 +++
 
-You are a follower of Jesus?
+You are a follower of Jesus? In this case, you might be interested in the question,
 
-In this case, you might be interested in the question, *What matters to Jesus?*
+*What matters to Jesus?*
 
 Jesus himself said, it’s the glory of his Father in Heaven. To honor Him and to carry out His will. How did he do this? 
 
@@ -29,4 +29,4 @@ You can’t honor the Father without caring for the ones He cares for.
 
 What matters to Jesus? To him, this is totally clear.
 
-What is it to you?
+Does it matter to you?
