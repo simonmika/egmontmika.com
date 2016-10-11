@@ -25,7 +25,7 @@ The secret is to let go, to not expect anything back. Resisting the temptation t
 
 Let others receive freely, enjoy the benefit, then pass it on freely and again, let it go. One day, it will go on without you, yet still because of your initiative - thanks to you. 
 
-Increasing your impact.
+Still increasing your impact.
 
 To the benefit of many.
 
