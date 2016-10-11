@@ -2,7 +2,6 @@
 title = "The Impact of Your Influence"
 date = 2016-10-12T03:01:45Z
 image = "ripples2.png"
-draft = true
 +++
 You can change things to the better.
 
