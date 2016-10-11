@@ -21,9 +21,9 @@ Enduring generations.
 
 Probably, most of your influence never gets recognized in public, though. Nevertheless, it can be powerful, although you hardly ever get to know the real impact of what you did, much less can you manage its final outcome. 
 
-The secret is to let go, to not expect anything back. Resisting the temptation to take control.
+The secret is to let go, to not expect anything back. Resisting the temptation to take control. Let others receive freely, enjoy the benefit, then pass it on freely and again, let it go. 
 
-Let others receive freely, enjoy the benefit, then pass it on freely and again, let it go. One day, it will go on without you, yet still because of your initiative - thanks to you. 
+One day, it will go on without you, yet still because of your initiative - thanks to you. 
 
 Still increasing your impact.
 
