@@ -1,8 +1,4 @@
-+++
-title = "Only Disciples Make Disciples"
-date = "2014-08-22T13:58:11Z"
-image = "only disciples make disciples.jpg"
-+++
+
 
 Institutions and offices cannot make disciples. Only disciples can.
 
