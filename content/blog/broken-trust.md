@@ -2,7 +2,7 @@
 +++
 title = "Broken Trust"
 date = "2016-10-26T13:58:11Z"
-image = "broken trust.jpg"
+image = "broken trust"
 draft = true
 +++
 Broken trust is painful.
