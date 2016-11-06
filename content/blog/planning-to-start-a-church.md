@@ -20,7 +20,7 @@ One at a time. And then another one, and another.
 And you teach these people to do the same.
 
 Your home base is your kitchen table. This is where you gather, share your meals, 
-pray your prayers, mentor and empower your people. 
+pray, mentor and empower those who want to join you. 
 
 This is where everythings starts.
 
@@ -32,6 +32,6 @@ Soon, there will be a fellowship of disciples.
 That’s a church.
 
 It may seem easier, faster and more remarkable to rent an auditorium, hire a worship team and make enough 
-noise to attract a crowd. Then call it a church.
+noise to attract a crowd, then call it a church. The question is, What would Jesus call it?
 
-The question is, What would Jesus call it?
+How would he do it?
