@@ -29,6 +29,6 @@ for a new and better decision?
 Or will you give in to peer pressure of sticking with
 your "tribe", your relatives and friends or your group (for what will they say?)?
 
-Many times, it takes humility and courage to make a new decision.
+Sometimes, it takes humility and courage to make a new decision.
 
 And trust in the voice of your heart. 
