@@ -8,7 +8,7 @@ draft = true
 It’s easy to imagine that the only way to start a church is by:
 
 - Renting an auditorium,
-- Hiring a worship team,
+- Engaging a worship team,
 - Gathering a crowd. 
 
 Of course, this isn’t true.
@@ -20,7 +20,7 @@ One at a time. And then another one, and another.
 And you teach these people to do the same.
 
 Your home base is your kitchen table. This is where you gather, share your meals, 
-pray, mentor and empower those who want to join you. 
+pray, teach, mentor and empower those who want to join you. 
 
 This is where everythings starts.
 
@@ -31,7 +31,9 @@ Soon, there will be a fellowship of disciples.
 
 That’s a church.
 
-It may seem easier, faster and more remarkable to rent an auditorium, hire a worship team and make enough 
-noise to attract a crowd, then call it a church. The question is, What would Jesus call it?
+It may seem easier, faster and more remarkable to rent an auditorium, engage a worship team and make enough 
+noise to attract a crowd, then call it a church. 
 
-How would he do it?
+The question is, how do you make disciples?
+
+How would Jesus do it?
