@@ -2,7 +2,6 @@
 title = "Taking a New Decision"
 date = 2016-11-12T03:01:45Z
 image = "taking a new decision.jpg"
-draft = true
 +++
 
 Sometimes it's time for a change.
