@@ -31,9 +31,9 @@ Soon, there will be a fellowship of disciples.
 
 That’s a church.
 
-It may seem easier, faster and more remarkable to rent an auditorium, engage a worship team and make enough 
+It may seem easier, faster and more remarkable to rent an auditorium, engage a speaker and a worship team and make enough 
 noise to attract a crowd, then call it a church. 
 
-The question is, how do you make disciples?
+The question is, what would Jesus call it? 
 
 How would Jesus do it?
