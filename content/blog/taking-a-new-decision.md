@@ -26,8 +26,21 @@ Will you let your tradition or habit or convenience be strong enough to override
 for a new and better decision? 
 
 Or will you give in to peer pressure of sticking with
-your "tribe", your relatives and friends or your group (for what will they say?)?
+your "tribe", your relatives and friends or your group ("What will they say?")?
 
 Sometimes, it takes humility and courage to make a new decision.
 
 And trust in the voice of your heart. 
+
+---------------------
+**Comments**
+
+*Noomi*
+
+Or be afraid that people won't take you serious because you're not sticking to what
+you built up and believed in and instead run off to something new and often more uncertain.
+
+*Egmont*
+
+True. If you need much confirmation you better stay inside 
+the box.
