@@ -8,7 +8,7 @@ draft = true
 It’s easy to imagine that the only way to start a church is by:
 
 - Renting an auditorium,
-- Engaging a worship team,
+- Engaging a speaker and a worship team,
 - Gathering a crowd. 
 
 Of course, this isn’t true.
