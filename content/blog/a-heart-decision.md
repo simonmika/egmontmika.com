@@ -1,6 +1,6 @@
 +++
 title = "A Heart Decision"
-date = "2016-11-39T22:44:14Z"
+date = "2016-11-30T22:44:14Z"
 image = "planning to start a church.jpg"
 draft = true
 +++
