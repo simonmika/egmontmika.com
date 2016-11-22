@@ -2,7 +2,7 @@
 title = "How to Start a Church"
 date = 2016-11-22T03:01:45Z
 image = "how to start a church.jpg"
-draft = true
+
 +++
 It’s easy to imagine that the only way to start a church is by:
 
