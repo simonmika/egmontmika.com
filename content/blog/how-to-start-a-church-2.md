@@ -16,11 +16,9 @@ You don’t need all of this, not even money. Instead of starting an organisatio
 
 And by demonstrating and being an example, you teach these people to do the same with their relatives and friends.
 
-Your home base is your kitchen table. This is where you gather, share your meals, pray, teach, mentor and empower those who want to join you.
+Your home base is your kitchen table. This is where you gather, share your meals, pray, teach, mentor and empower those who want to join you. This is where everythings starts.
 
-This is where everythings starts.
-
-Your area of operation is your social network, your family, relatives, friends and collgues. Then the city, its streets and squares, the parks, shopping centers, restaurants and cafés, the gyms and clubs… any place where you can meet people.
+Your area of operation is your social network, your family, relatives, friends and colleagues. Then the city, its streets and squares, the parks, shopping centers, restaurants and cafés, the gyms and clubs… any place where you can meet people.
 
 Sooner or later, there will be a fellowship of Jesus-followers.
 
