@@ -1,7 +1,7 @@
 +++
 title = "The Fruit of Your Life"
 date = "2016-12-21T22:44:14Z"
-image = "the fruit of your life.png"
+image = "the fruit of your life.jpg"
 draft = true
 +++
 
