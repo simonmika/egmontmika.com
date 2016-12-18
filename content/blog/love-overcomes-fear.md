@@ -29,12 +29,11 @@ While religious spirits are producing fear, his Spirit produces love that overco
 Admitted, followers of Jesus know what fear is, just like anyone else. Yet, they 
 overcome.
 
-Now, here is the challenge for you and me. 
+Now, here is the challenge: 
 
-In case that fear, guilt or shame, still characterize your relationship to God, 
-you might still be captured inside a religious system, rather than loving God and loving people. 
+In case that fear, guilt or shame, characterize your relationship to God, 
+you might still be captured inside a religious system, hindering you from loving God with all of your heart.
 Although, this is what you really want.
 
 In this case, wouldn't it be time for a change?
 
-Nothing less than a paradigm shift.
