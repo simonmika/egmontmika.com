@@ -1,5 +1,5 @@
 +++
-title = "Love overcomes fear"
+title = "Love Overcomes Fear"
 date = "2017-01-04T22:44:14Z"
 image = "love overcomes fear.jpg"
 draft = true
