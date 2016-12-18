@@ -4,6 +4,7 @@ date = "2017-01-04T22:44:14Z"
 image = "love overcomes fear.jpg"
 draft = true
 +++
+Fear and love don't match.
 
 One primary characteristic of virtually all religious systems around the world is fear: 
 fear of judgment, fear of curses, fear of hell, fear of punishment, fear of failing - 
