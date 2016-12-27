@@ -1,6 +1,6 @@
 +++
 title = "The Fruit of Your Life"
-date = "2016-12-21T22:44:14Z"
+date = "2016-12-27T22:44:14Z"
 image = "the fruit of your life.jpg"
 
 +++
